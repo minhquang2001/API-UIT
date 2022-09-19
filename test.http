@@ -1,0 +1,28 @@
+@baseUrl = http://localhost:3000/api
+
+# @name getAllIphones
+GET {{baseUrl}}/iphones
+
+###
+
+# @name addNewIphones
+POST {{baseUrl}}/iphones
+Content-Type: application/json
+
+{
+    "name": "Laptop"
+}
+
+###
+# @name addNewIphones
+PATCH {{baseUrl}}/iphones/2
+Content-Type: application/json
+
+{
+    "name": "Laptop"
+}
+
+###
+# @name removeNewIphones
+DELETE  {{baseUrl}}/iphones/2
+Content-Type: application/json
