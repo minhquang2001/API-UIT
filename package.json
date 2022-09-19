@@ -15,7 +15,6 @@
     "json-server": "^0.17.0"
   },
   "devDependencies": {
-    "faker": "^6.6.6",
     "nodemon": "^2.0.20"
   }
 }
