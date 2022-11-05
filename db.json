@@ -3,7 +3,8 @@
     {
       "id": 1,
       "name": "iPhone 13 Pro Max",
-      "url": "./iphones/iphone11green.webp",
+      "price": "26.990.000đ",
+      "url": "https://ibb.co/LYtrh1y",
       "detail": [
         {
           "no": "số lô của sản phẩm",
@@ -28,18 +29,21 @@
     },
     {
       "id": 2,
-      "name": "Laptop",
-      "price": "18.990.000đ"
+      "name": "iPhone 13",
+      "price": "18.990.000đ",
+      "url": "https://ibb.co/8KT2yFL"
     },
     {
       "id": 3,
       "name": "iPhone 12",
-      "price": "15.390.000đ"
+      "price": "15.390.000đ",
+      "url": "https://ibb.co/F5ssm0L"
     },
     {
       "id": 4,
       "name": "iPhone 11",
-      "price": "10.690.000đ"
+      "price": "10.690.000đ",
+      "url": "https://ibb.co/vxfkdmc"
     },
     {
       "id": 5,
@@ -110,24 +114,58 @@
       "id": 18,
       "name": "iPhone SE (2022) 256GB",
       "price": "14.990.000đ"
+    }
+  ],
+  "ipads": [
+    {
+      "id": 1,
+      "name": "iPad Air 4 10.9 inch Wi-Fi 64GB",
+      "image": "https://ibb.co/3kJHWMQ",
+      "price": "13.790.000đ"
     },
     {
-      "name": "Laptop",
-      "createdAt": 1663563434847,
-      "updatedAt": 1663563434847,
-      "id": 19
+      "id": 2,
+      "name": "iPad Air 5",
+      "image": "https://ibb.co/x8Rwpz9",
+      "price": "15.190.000đ"
     },
     {
-      "name": "Laptop",
-      "createdAt": 1663563441366,
-      "updatedAt": 1663563441366,
-      "id": 20
+      "id": 3,
+      "name": "iPad gen 9 10.2 inch Wi-Fi 64GB",
+      "image": "https://ibb.co/0qcc4Fj",
+      "price": "8.390.000đ"
     },
     {
-      "name": "Laptop",
-      "createdAt": 1663563442424,
-      "updatedAt": 1663563442424,
-      "id": 21
+      "id": 4,
+      "name": "iPad mini 6 (2021)",
+      "image": "https://ibb.co/F6FmJnW",
+      "price": "12.990.000đ"
+    }
+  ],
+  "macs": [
+    {
+      "id": 1,
+      "name": "Macbook Pro M2 2022 (16GB RAM)",
+      "image": "https://ibb.co/BngG8jh",
+      "price": "37.990.000đ"
+    },
+    {
+      "id": 2,
+      "name": "MacBook Pro 14 M1 Pro (16-Core/16GB/1TB)",
+      "image": "https://ibb.co/wJCdQY9",
+      "price": "57.990.000đ"
+    },
+    {
+      "id": 3,
+      "name": "MacBook Air M1 2020",
+      "image": "https://ibb.co/bFyWvw1",
+      "price": "21.990.000đ"
+    },
+    {
+      "id": 4,
+      "name": "MacBook Pro M1 2020",
+      "image": "https://ibb.co/RvQxLRz",
+      "price": "28.990.000đ"
     }
   ]
 }
