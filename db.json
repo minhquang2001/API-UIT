@@ -140,6 +140,12 @@
       "name": "iPad mini 6 (2021)",
       "image": "https://i.ibb.co/b1kQL73/ipadmini6.webp",
       "price": "12.990.000đ"
+    },
+    {
+      "id": 5,
+      "name": "iPad Air 4 10.9 inch Wi-Fi 256GB",
+      "image": "https://i.ibb.co/kMdF09v/ipadair4.webp",
+      "price": "16.690.000đ"
     }
   ],
   "macs": [
