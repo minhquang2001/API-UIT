@@ -4,20 +4,264 @@
       "id": 1,
       "name": "iPhone 13 Pro Max",
       "price": [
-        "26.990.000đ",
-        "29.990.000đ",
-        "34.990.000đ"
+        "27.450.000đ",
+        "29.550.000đ",
+        "33.850.000đ",
+        "37.950.000đ"
       ],
       "imageBackground": "https://i.ibb.co/0mMKVrL/iphone13promax.webp",
       "color": [
         "#2e6110",
         "#2176be",
-        "#fbecd3"
+        "#fbecd3",
+        "#5e5e59",
+        "#e3e5e3"
       ],
       "imageProfile": [
         "https://i.ibb.co/9qFqM5g/iphone13promax-green-profile.png",
         "https://i.ibb.co/b68R2H6/iphone13promax-blue-profile.png",
-        "https://i.ibb.co/23GxWxS/iphone13promax-gold-profile.png"
+        "https://i.ibb.co/23GxWxS/iphone13promax-gold-profile.png",
+        "https://i.ibb.co/hchbmRj/iphone-13-pro-max-grey-650x650-1.webp",
+        "https://i.ibb.co/WKTsQDP/iphone13promax-white-profile.png"
+      ],
+      "storage": [
+        "128GB",
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      "services": [
+        "Bộ sản phẩm gồm: Hộp, Sách hướng dẫn, Cây lấy sim, Cáp Lightning - Type C",
+        "Bảo hành chính hãng 1 năm",
+        "Giao hàng nhanh toàn quốc",
+        "Gọi đặt mua 1900.6626 (7:30 - 22:00)"
+      ],
+      "description": [
+        {
+          "heading": "iPhone 13 Pro Max",
+          "desc": [
+            "Một nâng cấp hệ thống camera chuyên nghiệp hoành tráng chưa từng có. Màn hình Super Retina XDR với ProMotion cho cảm giác nhanh nhạy hơn. Chip A15 Bionic thần tốc. Mạng 5G siêu nhanh. Thiết kế bền bỉ và thời lượng pin dài nhất từng có trên iPhone.",
+            "Màn hình Super Retina XDR 6.7 inch với ProMotion cho cảm giác nhanh nhạy hơn",
+            "Chế độ Điện Ảnh làm tăng thêm độ sâu trường ảnh nông và tự động thay đổi tiêu cự trong video ",
+            "Hệ thống camera chuyên nghiệp Telephoto, Wide và Ultra Wide 12MP; LiDAR Scanner; phạm vi thu phóng quang học 6x; chụp ảnh macro; Phong Cách Nhiếp Ảnh, video ProRes,4 HDR thông minh thế hệ 4, chế độ Ban Đêm, Apple ProRAW, khả năng quay video HDR Dolby Vision 4K",
+            "Camera trước TrueDepth 12MP với chế độ Ban Đêm và khả năng quay video HDR Dolby Vision 4K ",
+            "Chip A15 Bionic cho hiệu năng thần tốc ",
+            "Thời gian xem video lên đến 28 giờ, thời lượng pin dài nhất từng có trên iPhone ",
+            "Thiết kế bền bỉ với Ceramic Shield ",
+            "Khả năng chống nước đạt chuẩn IP68 đứng đầu thị trường ",
+            "Mạng 5G cho tốc độ tải xuống siêu nhanh, xem video và nghe nhạc trực tuyến chất lượng cao ",
+            "iOS 15 tích hợp nhiều tính năng mới cho phép bạn làm được nhiều việc hơn bao giờ hết với iPhone."
+          ]
+        },
+        {
+          "heading": "Các thông tin Apple đảm bảo ( Pháp lý)",
+          "desc": [
+            "Cần có gói cước dữ liệu. Mạng 5G chỉ khả dụng ở một số thị trường và được cung cấp qua một số nhà mạng. Tốc độ có thể thay đổi tùy địa điểm và nhà mạng. Để biết thông tin về hỗ trợ mạng 5G, vui lòng liên hệ nhà mạng và truy cập apple.com/iphone/cellular. Thời lượng pin khác nhau tùy theo cách sử dụng và cấu hình. Truy cập apple.com/batteries để biết thêm thông tin. Màn hình có các góc bo tròn theo đường cong tuyệt đẹp và nằm gọn theo một hình chữ nhật chuẩn. Khi tính theo hình chữ nhật chuẩn, kích thước màn hình là 6.68 inch theo đường chéo. Diện tích hiển thị thực tế nhỏ hơn. Sắp ra mắt. iPhone 13 Pro Max có khả năng chống nước, chống tia nước và chống bụi. Sản phẩm đã qua kiểm nghiệm trong điều kiện phòng thí nghiệm có kiểm soát đạt mức IP68 theo tiêu chuẩn IEC 60529. Khả năng chống tia nước, chống nước và chống bụi không phải là các điều kiện vĩnh viễn. Khả năng này có thể giảm do hao mòn thông thường. Không sạc pin khi iPhone đang bị ướt. Vui lòng tham khảo hướng dẫn sử dụng để biết cách lau sạch và làm khô máy. Không bảo hành sản phẩm bị hỏng do thấm chất lỏng. Một số tính năng không khả dụng tại một số quốc gia hoặc khu vực."
+          ]
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Dung lượng",
+          "value": "128GB"
+        },
+        {
+          "label": "Màn hình",
+          "value": "6.7”, OLED, Super Retina XDR, ProMotion 120Hz"
+        },
+        {
+          "label": "Độ phân giải màn hình",
+          "value": "2778 x 1284 Pixels"
+        },
+        {
+          "label": "Camera sau",
+          "value": "3 camera 12 MP, cảm biến LiDAR"
+        },
+        {
+          "label": "Camera trước",
+          "value": "12MP"
+        },
+        {
+          "label": "Pin",
+          "value": "Phát video lên tới 28 giờ (theo Apple)"
+        },
+        {
+          "label": "Sạc",
+          "value": "Sạc nhanh 20W, sạc không dây, hỗ trợ Magsafe"
+        },
+        {
+          "label": "Kết nối mạng",
+          "value": "2 SIM (1 Nano SIM và 1 eSIM hoặc 2 eSIM), hỗ trợ 5G"
+        },
+        {
+          "label": "Chọn Chip",
+          "value": "A15 Bionic, 6 nhân CPU, 4 nhân GPU, 5nm"
+        },
+        {
+          "label": "Chọn RAM",
+          "value": "6GB"
+        },
+        {
+          "label": "Bảo mật",
+          "value": "Face ID"
+        },
+        {
+          "label": "Chống nước",
+          "value": "IP68"
+        },
+        {
+          "label": "Chất liệu",
+          "value": "Viền thép, kính cường lực Ceramic Shield phía trước"
+        },
+        {
+          "label": "Thương hiệu",
+          "value": "Apple"
+        }
+      ]
+    },
+
+
+    {
+      "id": 2,
+      "name": "iPhone 13 Pro",
+      "price": [
+        "23.990.000đ",
+        "26.490.000đ",
+        "31.790.000đ",
+        "34.990.000đ"
+      ],
+      "imageBackground": "https://i.ibb.co/Rc7328T/iphone-13-pro.webp",
+      "color": [
+        "#2f6010",
+        "#2276bf",
+        "#5e5e59",
+        "#e3e5e3",
+        "#fcebd3"
+      ],
+      "imageProfile": [
+        "https://i.ibb.co/4WPy9z2/iphone-13-pro-green-profile.png",
+        "https://i.ibb.co/PZNPtf0/iphone-13-pro-blue-profile.png",
+        "https://i.ibb.co/vmLDpmQ/iphone-13-pro-grey-profile.png",
+        "https://i.ibb.co/711sJBB/iphone-13-pro-silver-profile.png",
+        "https://i.ibb.co/9VGBNV6/iphone-13-pro-gold-profile.png"
+      ],
+      "storage": [
+        "128GB",
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      "services": [
+        "Bộ sản phẩm gồm: Hộp, Sách hướng dẫn, Cây lấy sim, Cáp Lightning - Type C",
+        "Bảo hành chính hãng 1 năm",
+        "Giao hàng nhanh toàn quốc",
+        "Gọi đặt mua 1900.6626 (7:30 - 22:00)"
+      ],
+      "description": [
+        {
+          "heading": "iPhone 13 Pro",
+          "desc": [
+            "Một nâng cấp hệ thống camera chuyên nghiệp hoành tráng chưa từng có. Màn hình Super Retina XDR với ProMotion cho cảm giác nhanh nhạy hơn. Chip A15 Bionic thần tốc. Mạng 5G siêu nhanh. Thiết kế bền bỉ và thời lượng pin dài nhất từng có trên iPhone.",
+            "Màn hình Super Retina XDR 6.7 inch với ProMotion cho cảm giác nhanh nhạy hơn",
+            "Chế độ Điện Ảnh làm tăng thêm độ sâu trường ảnh nông và tự động thay đổi tiêu cự trong video ",
+            "Hệ thống camera chuyên nghiệp Telephoto, Wide và Ultra Wide 12MP; LiDAR Scanner; phạm vi thu phóng quang học 6x; chụp ảnh macro; Phong Cách Nhiếp Ảnh, video ProRes,4 HDR thông minh thế hệ 4, chế độ Ban Đêm, Apple ProRAW, khả năng quay video HDR Dolby Vision 4K",
+            "Camera trước TrueDepth 12MP với chế độ Ban Đêm và khả năng quay video HDR Dolby Vision 4K ",
+            "Chip A15 Bionic cho hiệu năng thần tốc ",
+            "Thời gian xem video lên đến 28 giờ, thời lượng pin dài nhất từng có trên iPhone ",
+            "Thiết kế bền bỉ với Ceramic Shield ",
+            "Khả năng chống nước đạt chuẩn IP68 đứng đầu thị trường ",
+            "Mạng 5G cho tốc độ tải xuống siêu nhanh, xem video và nghe nhạc trực tuyến chất lượng cao ",
+            "iOS 15 tích hợp nhiều tính năng mới cho phép bạn làm được nhiều việc hơn bao giờ hết với iPhone."
+          ]
+        },
+        {
+          "heading": "Các thông tin Apple đảm bảo ( Pháp lý)",
+          "desc": [
+            "Cần có gói cước dữ liệu. Mạng 5G chỉ khả dụng ở một số thị trường và được cung cấp qua một số nhà mạng. Tốc độ có thể thay đổi tùy địa điểm và nhà mạng. Để biết thông tin về hỗ trợ mạng 5G, vui lòng liên hệ nhà mạng và truy cập apple.com/iphone/cellular. Thời lượng pin khác nhau tùy theo cách sử dụng và cấu hình. Truy cập apple.com/batteries để biết thêm thông tin. Màn hình có các góc bo tròn theo đường cong tuyệt đẹp và nằm gọn theo một hình chữ nhật chuẩn. Khi tính theo hình chữ nhật chuẩn, kích thước màn hình là 6.68 inch theo đường chéo. Diện tích hiển thị thực tế nhỏ hơn. Sắp ra mắt. iPhone 13 Pro Max có khả năng chống nước, chống tia nước và chống bụi. Sản phẩm đã qua kiểm nghiệm trong điều kiện phòng thí nghiệm có kiểm soát đạt mức IP68 theo tiêu chuẩn IEC 60529. Khả năng chống tia nước, chống nước và chống bụi không phải là các điều kiện vĩnh viễn. Khả năng này có thể giảm do hao mòn thông thường. Không sạc pin khi iPhone đang bị ướt. Vui lòng tham khảo hướng dẫn sử dụng để biết cách lau sạch và làm khô máy. Không bảo hành sản phẩm bị hỏng do thấm chất lỏng. Một số tính năng không khả dụng tại một số quốc gia hoặc khu vực."
+          ]
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Màn hình",
+          "value": "6.1”, OLED, Super Retina XDR, ProMotion 120Hz"
+        },
+        {
+          "label": "Độ phân giải màn hình",
+          "value": "2532 x 1770 Pixels"
+        },
+        {
+          "label": "Camera sau",
+          "value": "3 camera 12 MP, cảm biến LiDAR"
+        },
+        {
+          "label": "Camera trước",
+          "value": "12MP"
+        },
+        {
+          "label": "Pin",
+          "value": "Phát video lên tới 22 giờ"
+        },
+        {
+          "label": "Sạc",
+          "value": "Sạc nhanh 20W, sạc không dây, hỗ trợ Magsafe"
+        },
+        {
+          "label": "Kết nối mạng",
+          "value": "2 SIM (1 Nano SIM và 1 eSIM hoặc 2 eSIM), hỗ trợ 5G"
+        },
+        {
+          "label": "Chọn Chip",
+          "value": "A15 Bionic, 6 nhân CPU, 4 nhân GPU, 5nm"
+        },
+        {
+          "label": "Chọn RAM",
+          "value": "6GB"
+        },
+        {
+          "label": "Bảo mật",
+          "value": "Face ID"
+        },
+        {
+          "label": "Chống nước",
+          "value": "IP68"
+        },
+        {
+          "label": "Chất liệu",
+          "value": "Viền thép, kính cường lực Ceramic Shield phía trước"
+        },
+        {
+          "label": "Thương hiệu",
+          "value": "Apple"
+        }
+      ]
+    },
+
+
+    {
+      "id": 3,
+      "name": "iPhone 13",
+      "price": [
+        "19.090.000đ",
+        "21.690.000đ",
+        "24.890.000đ"
+      ],
+      "imageBackground": "https://i.ibb.co/w03CnDF/iphone13.webp",
+      "color": [
+        "#2f6010",
+        "#000000",
+        "#f4e9d4",
+        "#174c6f",
+        "#da3c3a",
+        "#ebb9b0"
+      ],
+      "imageProfile": [
+        "https://i.ibb.co/jyTHwXF/iphone-13-green-profile.png",
+        "https://i.ibb.co/ZYDZPSw/iphone-13-black-profile.png",
+        "https://i.ibb.co/r6yHCyH/iphone-13-white-profile.png",
+        "https://i.ibb.co/3s4nB7n/iphone-13-blue-profile.png",
+        "https://i.ibb.co/PcjV80T/iphone-13-red-profile.png",
+        "https://i.ibb.co/Rp48mqT/iphone-13-pink-profile.png"
       ],
       "storage": [
         "128GB",
@@ -32,152 +276,592 @@
       ],
       "description": [
         {
-          "heading": "iPhone 14 Pro vượt trội.",
+          "heading": "iPhone 13",
           "desc": [
-            "iPhone 14 Pro. Bắt trọn chi tiết ấn tượng với Camera Chính 48MP. Trải nghiệm iPhone theo cách hoàn toàn mới với Dynamic Island và màn hình Luôn Bật. Phát Hiện Va Chạm, một tính năng an toàn mới, thay bạn gọi trợ giúp khi cần kíp."
+            "Hệ thống camera kép tiên tiến nhất từng có trên iPhone. Chip A15 Bionic thần tốc. Bước nhảy vọt về thời lượng pin. Thiết kế bền bỉ. Mạng 5G siêu nhanh. Cùng với màn hình Super Retina XDR sáng hơn.",
+            "Màn hình Super Retina XDR 6.1 inch",
+            "Chế độ Điện Ảnh làm tăng thêm độ sâu trường ảnh nông và tự động thay đổi tiêu cự trong video",
+            "Hệ thống camera kép tiên tiến với camera Wide và Ultra Wide 12MP; Phong Cách Nhiếp Ảnh, HDR thông minh thế hệ 4, chế độ Ban Đêm, khả năng quay video HDR Dolby Vision 4K",
+            "Camera trước TrueDepth 12MP với chế độ Ban Đêm và khả năng quay video HDR Dolby Vision 4K",
+            "Chip A15 Bionic cho hiệu năng thần tốc",
+            "Thời gian xem video lên đến 19 giờ",
+            "Thiết kế bền bỉ với Ceramic Shield",
+            "Khả năng chống nước đạt chuẩn IP68 đứng đầu thị trường",
+            "Mạng 5G cho tốc độ tải xuống siêu nhanh, xem video và nghe nhạc trực tuyến chất lượng cao",
+            "iOS 15 tích hợp nhiều tính năng mới cho phép bạn làm được nhiều việc hơn bao giờ hết với iPhone"
           ]
         },
         {
-          "heading": "Tính năng nổi bật.",
+          "heading": "Các thông tin Apple đảm bảo ( Pháp lý)",
           "desc": [
-            "Màn hình Super Retina XDR 6,1 inch với tính năng Luôn Bật và ProMotion",
+            "Cần có gói cước dữ liệu. Mạng 5G chỉ khả dụng ở một số thị trường và được cung cấp qua một số nhà mạng. Tốc độ có thể thay đổi tùy địa điểm và nhà mạng. Để biết thông tin về hỗ trợ mạng 5G, vui lòng liên hệ nhà mạng và truy cập apple.com/iphone/cellular. Màn hình có các góc bo tròn theo đường cong tuyệt đẹp và nằm gọn theo một hình chữ nhật chuẩn. Khi tính theo hình chữ nhật chuẩn, kích thước màn hình là 6.06 inch theo đường chéo. Diện tích hiển thị thực tế nhỏ hơn. Thời lượng pin khác nhau tùy theo cách sử dụng và cấu hình. Truy cập apple.com/batteries để biết thêm thông tin. iPhone 13 có khả năng chống nước, chống tia nước và chống bụi. Sản phẩm đã qua kiểm nghiệm trong điều kiện phòng thí nghiệm có kiểm soát đạt mức IP68 theo tiêu chuẩn IEC 60529. Khả năng chống tia nước, chống nước và chống bụi không phải là các điều kiện vĩnh viễn. Khả năng này có thể giảm do hao mòn thông thường. Không sạc pin khi iPhone đang bị ướt. Vui lòng tham khảo hướng dẫn sử dụng để biết cách lau sạch và làm khô máy. Không bảo hành sản phẩm bị hỏng do thấm chất lỏng. Một số tính năng không khả dụng tại một số quốc gia hoặc khu vực."
+          ]
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Màn hình",
+          "value": "6.1”, OLED, Super Retina XDR"
+        },
+        {
+          "label": "Độ phân giải màn hình",
+          "value": "2532 x 1770 Pixels"
+        },
+        {
+          "label": "Camera sau",
+          "value": "2 camera 12MP"
+        },
+        {
+          "label": "Camera trước",
+          "value": "12MP"
+        },
+        {
+          "label": "Pin",
+          "value": "Phát video lên tới 19 giờ"
+        },
+        {
+          "label": "Sạc",
+          "value": "Sạc nhanh 20W, sạc không dây, hỗ trợ Magsafe"
+        },
+        {
+          "label": "Kết nối mạng",
+          "value": "2 SIM (1 Nano SIM và 1 eSIM hoặc 2 eSIM), hỗ trợ 5G"
+        },
+        {
+          "label": "Chọn Chip",
+          "value": "A15 Bionic, 6 nhân CPU, 4 nhân GPU, 5nm"
+        },
+        {
+          "label": "Chọn RAM",
+          "value": "4GB"
+        },
+        {
+          "label": "Bảo mật",
+          "value": "Face ID"
+        },
+        {
+          "label": "Chống nước",
+          "value": "IP68"
+        },
+        {
+          "label": "Chất liệu",
+          "value": "Viền nhôm, kính cường lực Ceramic Shield phía trước"
+        },
+        {
+          "label": "Thương hiệu",
+          "value": "Apple"
+        }
+      ]
+    },
+
+
+    {
+      "id": 4,
+      "name": "iPhone 13 mini",
+      "price": [
+        "17.490.000đ",
+        "19.990.000đ",
+        "21.990.000đ"
+      ],
+      "imageBackground": "https://i.ibb.co/bRmpxN7/iphone-13-mini.webp",
+      "color": [
+        "#2f6010",
+        "#000000",
+        "#f4e9d4",
+        "#174c6f",
+        "#da3c3a",
+        "#ebb9b0"
+      ],
+      "imageProfile": [
+        "https://i.ibb.co/rkP73ph/iphone-13-mini-green-profile.png",
+        "https://i.ibb.co/0qXBGbN/iphone-13-mini-black-profile.png",
+        "https://i.ibb.co/7SNvjWM/iphone-13-mini-white-profile.png",
+        "https://i.ibb.co/1bhCSvf/iphone-13-mini-blue-profile.png",
+        "https://i.ibb.co/tH2x5YF/iphone-13-mini-red-profile.png",
+        "https://i.ibb.co/sJ28rkp/iphone-13-mini-pink-profile.png"
+      ],
+      "storage": [
+        "128GB",
+        "256GB",
+        "512GB"
+      ],
+      "services": [
+        "Bộ sản phẩm gồm: Hộp, Sách hướng dẫn, Cây lấy sim, Cáp Lightning - Type C",
+        "Bảo hành chính hãng 1 năm",
+        "Giao hàng nhanh toàn quốc",
+        "Gọi đặt mua 1900.6626 (7:30 - 22:00)"
+      ],
+      "description": [
+        {
+          "heading": "iPhone 13 mini",
+          "desc": [
+            "Hệ thống camera kép tiên tiến nhất từng có trên iPhone. Chip A15 Bionic thần tốc. Thời lượng pin tăng vọt. Thiết kế bền bỉ. Mạng 5G siêu nhanh. Cùng với màn hình Super Retina XDR sáng hơn.",
+            "Màn hình Super Retina XDR 5.4 inch",
+            "Chế độ Điện Ảnh làm tăng thêm độ sâu trường ảnh nông và tự động thay đổi tiêu cự trong video",
+            "Hệ thống camera kép tiên tiến với camera Wide và Ultra Wide 12MP; Phong Cách Nhiếp Ảnh, HDR thông minh thế hệ 4, chế độ Ban Đêm, khả năng quay video HDR Dolby Vision 4K",
+            "Camera trước TrueDepth 12MP với chế độ Ban Đêm và khả năng quay video HDR Dolby Vision 4K",
+            "Chip A15 Bionic cho hiệu năng thần tốc",
+            "Thời gian xem video lên đến 17 giờ",
+            "Thiết kế bền bỉ với Ceramic Shield",
+            "Khả năng chống nước đạt chuẩn IP68 đứng đầu thị trường",
+            "Mạng 5G cho tốc độ tải xuống siêu nhanh, xem video và nghe nhạc trực tuyến chất lượng cao",
+            "iOS 15 tích hợp nhiều tính năng mới cho phép bạn làm được nhiều việc hơn bao giờ hết với iPhone"
+          ]
+        },
+        {
+          "heading": "Các thông tin Apple đảm bảo ( Pháp lý)",
+          "desc": [
+            "Cần có gói cước dữ liệu. Mạng 5G chỉ khả dụng ở một số thị trường và được cung cấp qua một số nhà mạng. Tốc độ có thể thay đổi tùy địa điểm và nhà mạng. Để biết thông tin về hỗ trợ mạng 5G, vui lòng liên hệ nhà mạng và truy cập apple.com/iphone/cellular. Màn hình có các góc bo tròn theo đường cong tuyệt đẹp và nằm gọn theo một hình chữ nhật chuẩn. Khi tính theo hình chữ nhật chuẩn, kích thước màn hình là 5.42 inch theo đường chéo. Diện tích hiển thị thực tế nhỏ hơn. Thời lượng pin khác nhau tùy theo cách sử dụng và cấu hình. Truy cập apple.com/batteries để biết thêm thông tin. iPhone 13 mini có khả năng chống nước, chống tia nước và chống bụi. Sản phẩm đã qua kiểm nghiệm trong điều kiện phòng thí nghiệm có kiểm soát đạt mức IP68 theo tiêu chuẩn IEC 60529. Khả năng chống tia nước, chống nước và chống bụi không phải là các điều kiện vĩnh viễn. Khả năng này có thể giảm do hao mòn thông thường. Không sạc pin khi iPhone đang bị ướt. Vui lòng tham khảo hướng dẫn sử dụng để biết cách lau sạch và làm khô máy. Không bảo hành sản phẩm bị hỏng do thấm chất lỏng. Một số tính năng không khả dụng tại một số quốc gia hoặc khu vực."
+          ]
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Màn hình",
+          "value": "5.4”, OLED, Super Retina XDR"
+        },
+        {
+          "label": "Độ phân giải màn hình",
+          "value": "2340 x1080 Pixels"
+        },
+        {
+          "label": "Camera sau",
+          "value": "2 camera 12MP"
+        },
+        {
+          "label": "Camera trước",
+          "value": "12MP"
+        },
+        {
+          "label": "Pin",
+          "value": "Phát video lên tới 17 giờ"
+        },
+        {
+          "label": "Sạc",
+          "value": "Sạc nhanh 20W, sạc không dây, hỗ trợ Magsafe"
+        },
+        {
+          "label": "Kết nối mạng",
+          "value": "2 SIM (1 Nano SIM và 1 eSIM hoặc 2 eSIM), hỗ trợ 5G"
+        },
+        {
+          "label": "Chọn Chip",
+          "value": "A15 Bionic, 6 nhân CPU, 4 nhân GPU, 5nm"
+        },
+        {
+          "label": "Chọn RAM",
+          "value": "4GB"
+        },
+        {
+          "label": "Bảo mật",
+          "value": "Face ID"
+        },
+        {
+          "label": "Chống nước",
+          "value": "IP68"
+        },
+        {
+          "label": "Chất liệu",
+          "value": "Viền nhôm, kính cường lực Ceramic Shield phía trước"
+        },
+        {
+          "label": "Thương hiệu",
+          "value": "Apple"
+        }
+      ]
+    },
+
+
+    {
+      "id": 5,
+      "name": "iPhone 14 Pro Max",
+      "price": [
+        "34.850.000đ",
+        "36.450.000đ",
+        "42.750.000đ",
+        "49.950.000"
+      ],
+      "imageBackground": "https://i.ibb.co/Lrccz3M/iphone-14-pro-max.webp",
+      "color": [
+        "#61586b",
+        "#4c4b49",
+        "#e3e5e3",
+        "#fcebd3"
+      ],
+      "imageProfile": [
+        "https://i.ibb.co/PGj24KZ/iphone-14-pro-max-tim-profile.png",
+        "https://i.ibb.co/cJws0YW/iphone-14-promax-den-profile.png",
+        "https://i.ibb.co/YT4m4LJ/iphone-14-promax-white-profile.png",
+        "https://i.ibb.co/6r7MqpP/iphone-14-promax-vang-profile.png"
+      ],
+      "storage": [
+        "128GB",
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      
+      "services": [
+        "Bộ sản phẩm gồm: Hộp, Sách hướng dẫn, Cây lấy sim, Cáp Lightning - Type C",
+        "Bảo hành chính hãng 1 năm",
+        "Giao hàng nhanh toàn quốc",
+        "Gọi đặt mua 1900.6626 (7:30 - 22:00)"
+      ],
+      "description": [
+        {
+          "heading": "iPhone 14 Pro Max. Pro. Vượt trội.",
+          "desc": [
+            "iPhone 14 Pro Max. Bắt trọn chi tiết ấn tượng với Camera Chính 48MP.",
+            "Trải nghiệm iPhone theo cách hoàn toàn mới với Dynamic Island và màn hình Luôn Bật.",
+            "Công nghệ an toàn quan trọng - Phát Hiện Va Chạm  thay bạn gọi trợ giúp khi cần kíp"
+          ]
+        },
+        {
+          "heading": "Tính năng nổi bật",
+          "desc": [
+            "Màn hình Super Retina XDR 6,7 inch2 với tính năng Luôn Bật và ProMotion",
             "Dynamic Island, một cách mới tuyệt diệu để tương tác với iPhone",
-            "Camera Chính 48MP cho độ phân giải gấp 4 lần"
+            "Camera Chính 48MP cho độ phân giải gấp 4 lần",
+            "Chế độ Điện Ảnh nay đã hỗ trợ 4K Dolby Vision tốc độ lên đến 30 fps",
+            "Chế độ Hành Động để quay video cầm tay mượt mà, ổn định",
+            "Công nghệ an toàn quan trọng - Phát Hiện Va Chạm1 thay bạn gọi trợ giúp khi cần kíp",
+            "Thời lượng pin cả ngày và thời gian xem video lên đến 29 giờ",
+            "A16 Bionic, chip điện thoại thông minh tuyệt đỉnh. Mạng di động 5G siêu nhanh",
+            "Các tính năng về độ bền dẫn đầu như Ceramic Shield và khả năng chống nước",
+            "iOS 16 đem đến thêm nhiều cách để cá nhân hóa, giao tiếp và chia sẻ"
           ]
         },
         {
           "heading": "Pháp lý",
           "desc": [
             "SOS Khẩn Cấp sử dụng kết nối mạng di động hoặc Cuộc Gọi Wi-Fi.",
-            "Màn hình có các góc bo tròn. Khi tính theo hình chữ nhật, kích thước màn hình theo đường chéo là 6,12 inch. Diện tích hiển thị thực tế nhỏ hơn.",
-            "Thời lượng pin khác nhau tùy theo cách sử dụng và cấu hình; truy cập apple.com/batteries để biết thêm thông tin."
+            "Màn hình có các góc bo tròn. Khi tính theo hình chữ nhật, kích thước màn hình theo đường chéo là 6,69 inch. Diện tích hiển thị thực tế nhỏ hơn.",
+            "Thời lượng pin khác nhau tùy theo cách sử dụng và cấu hình; truy cập apple.com/batteries để biết thêm thông tin.",
+            "Cần có gói cước dữ liệu. Mạng 5G chỉ khả dụng ở một số thị trường và được cung cấp qua một số nhà mạng. Tốc độ có thể thay đổi tùy địa điểm và nhà mạng. Để biết thông tin về hỗ trợ mạng 5G, vui lòng liên hệ nhà mạng và truy cập apple.com/iphone/cellular.",
+            "iPhone 14 Pro Max có khả năng chống tia nước, chống nước và chống bụi. Sản phẩm đã qua kiểm nghiệm trong điều kiện phòng thí nghiệm có kiểm soát đạt mức IP68 theo tiêu chuẩn IEC 60529 (chống nước ở độ sâu tối đa 6 mét trong vòng tối đa 30 phút). Khả năng chống tia nước, chống nước và chống bụi không phải là các điều kiện vĩnh viễn. Khả năng này có thể giảm do hao mòn thông thường. Không sạc pin khi iPhone đang bị ướt.",
+            "Vui lòng tham khảo hướng dẫn sử dụng để biết cách lau sạch và làm khô máy. Không bảo hành sản phẩm bị hỏng do thấm chất lỏng.",
+            "Một số tính năng không khả dụng tại một số quốc gia hoặc khu vực."
           ]
         }
       ],
       "specifications": [
         {
-          "label": "Dung lượng",
-          "value": "128GB"
+          "label": "Màn hình",
+          "value": "6.7″Super Retina XDR display"
         },
         {
-          "label": "Màn hình",
-          "value": "6.7″ Super Retina XDR display"
+          "label": "Độ phân giải màn hình",
+          "value": "2796 - x 1290 pixel ở 460 ppi"
         },
         {
           "label": "Camera sau",
           "value": "Chính: khẩu độ ƒ / 1,78, Chụp xa: khẩu độ ƒ / 2.8, Hệ thống camera chuyên nghiệp (48MP chính, 12MP siêu rộng và 12MP tele), Siêu rộng: khẩu độ ƒ / 2.2"
         },
         {
-          "label": "Camera truoc",
-          "value": "Chính: khẩu độ ƒ / 1,78, Chụp xa: khẩu độ ƒ / 2.8, Hệ thống camera chuyên nghiệp (48MP chính, 12MP siêu rộng và 12MP tele), Siêu rộng: khẩu độ ƒ / 2.2"
+          "label": "Camera trước",
+          "value": "12MP, khẩu độ ƒ / 1.9"
         },
         {
           "label": "Pin",
-          "value": "Chính: khẩu độ ƒ / 1,78, Chụp xa: khẩu độ ƒ / 2.8, Hệ thống camera chuyên nghiệp (48MP chính, 12MP siêu rộng và 12MP tele), Siêu rộng: khẩu độ ƒ / 2.2"
+          "value": "Phát video lên tới 29 giờ (theo Apple)"
+        },
+        {
+          "label": "Sạc",
+          "value": "Sạc không dây MagSafe và Qi"
+        },
+        {
+          "label": "Kết nối mạng",
+          "value": "2 SIM (1 Nano SIM và 1 eSIM hoặc 2 eSIM), hỗ trợ 5G"
+        },
+        {
+          "label": "Chọn Chip",
+          "value": "Chip A16 Bionic,CPU 6 nhân, GPU 5 lõi, 16-core Neural Engine"
+        },
+        {
+          "label": "Chọn RAM",
+          "value": "6GB"
+        },
+        {
+          "label": "Bảo mật",
+          "value": "Face ID, Được kích hoạt bởi camera trước TrueDepth để nhận dạng khuôn mặts"
+        },
+        {
+          "label": "Chống nước",
+          "value": "IP68 (độ sâu tối đa 6 mét trong tối đa 30 phút) theo tiêu chuẩn IEC 60529"
+        },
+        {
+          "label": "Chất liệu",
+          "value": "Đang cập nhật"
+        },
+        {
+          "label": "Thương hiệu",
+          "value": "Apple"
         }
       ]
     },
-    {
-      "id": 2,
-      "name": "iPhone 13",
-      "price": [
-        "18.990.000đ",
-        "21.990.000đ"
-      ],
-      "storage": [
-        "128GB",
-        "256GB"
-      ],
-      "url": "https://i.ibb.co/w03CnDF/iphone13.webp"
-    },
-    {
-      "id": 3,
-      "name": "iPhone 12",
-      "price": [
-        "15.390.000đ",
-        "18.990.000đ"
-      ],
-      "storage": [
-        "128GB",
-        "256GB"
-      ],
-      "url": "https://i.ibb.co/0CBBmFR/iphone12.webp"
-    },
-    {
-      "id": 4,
-      "name": "iPhone 11",
-      "price": "10.690.000đ",
-      "url": "https://ibb.co/vxfkdmc"
-    },
-    {
-      "id": 5,
-      "name": "iPhone 13 256GB",
-      "price": "21.990.000đ"
-    },
+
+
     {
       "id": 6,
-      "name": "iPhone 13 512GB",
-      "price": "24.990.000đ"
+      "name": "iPhone 14 Pro",
+      "price": [
+        "29.850.000đ",
+        "30.950.000đ",
+        "35.950.000đ",
+        "41.950.000đ"
+      ],
+      "imageBackground": "https://i.ibb.co/NF0HLZS/iphone-14-pro.webp",
+      "color": [
+        "#61586b",
+        "#4c4b49",
+        "#e3e5e3",
+        "#fcebd3"
+      ],
+      "imageProfile": [
+        "https://i.ibb.co/smnXww2/i-Phone14pro-purple-profile.png",
+        "https://i.ibb.co/71tN2Py/i-Phone14pro-black-profile.png",
+        "https://i.ibb.co/D7FrRvv/i-Phone14pro-Silver-profile.png",
+        "https://i.ibb.co/JvGySgW/i-Phone14pro-gold-profile.png"
+      ],
+      "storage": [
+        "128GB",
+        "256GB",
+        "512GB",
+        "1TB"
+      ],
+      
+      "services": [
+        "Bộ sản phẩm gồm: Hộp, Sách hướng dẫn, Cây lấy sim, Cáp Lightning - Type C",
+        "Bảo hành chính hãng 1 năm",
+        "Giao hàng nhanh toàn quốc",
+        "Gọi đặt mua 1900.6626 (7:30 - 22:00)"
+      ],
+      "description": [
+        {
+          "heading": "iPhone 14 Pro Max. Pro. Vượt trội.",
+          "desc": [
+            "iPhone 14 Pro Max. Bắt trọn chi tiết ấn tượng với Camera Chính 48MP.",
+            "Trải nghiệm iPhone theo cách hoàn toàn mới với Dynamic Island và màn hình Luôn Bật.",
+            "Công nghệ an toàn quan trọng - Phát Hiện Va Chạm  thay bạn gọi trợ giúp khi cần kíp"
+          ]
+        },
+        {
+          "heading": "Tính năng nổi bật",
+          "desc": [
+            "Màn hình Super Retina XDR 6,7 inch2 với tính năng Luôn Bật và ProMotion",
+            "Dynamic Island, một cách mới tuyệt diệu để tương tác với iPhone",
+            "Camera Chính 48MP cho độ phân giải gấp 4 lần",
+            "Chế độ Điện Ảnh nay đã hỗ trợ 4K Dolby Vision tốc độ lên đến 30 fps",
+            "Chế độ Hành Động để quay video cầm tay mượt mà, ổn định",
+            "Công nghệ an toàn quan trọng - Phát Hiện Va Chạm1 thay bạn gọi trợ giúp khi cần kíp",
+            "Thời lượng pin cả ngày và thời gian xem video lên đến 29 giờ",
+            "A16 Bionic, chip điện thoại thông minh tuyệt đỉnh. Mạng di động 5G siêu nhanh",
+            "Các tính năng về độ bền dẫn đầu như Ceramic Shield và khả năng chống nước",
+            "iOS 16 đem đến thêm nhiều cách để cá nhân hóa, giao tiếp và chia sẻ"
+          ]
+        },
+        {
+          "heading": "Pháp lý",
+          "desc": [
+            "SOS Khẩn Cấp sử dụng kết nối mạng di động hoặc Cuộc Gọi Wi-Fi.",
+            "Màn hình có các góc bo tròn. Khi tính theo hình chữ nhật, kích thước màn hình theo đường chéo là 6,69 inch. Diện tích hiển thị thực tế nhỏ hơn.",
+            "Thời lượng pin khác nhau tùy theo cách sử dụng và cấu hình; truy cập apple.com/batteries để biết thêm thông tin.",
+            "Cần có gói cước dữ liệu. Mạng 5G chỉ khả dụng ở một số thị trường và được cung cấp qua một số nhà mạng. Tốc độ có thể thay đổi tùy địa điểm và nhà mạng. Để biết thông tin về hỗ trợ mạng 5G, vui lòng liên hệ nhà mạng và truy cập apple.com/iphone/cellular.",
+            "iPhone 14 Pro Max có khả năng chống tia nước, chống nước và chống bụi. Sản phẩm đã qua kiểm nghiệm trong điều kiện phòng thí nghiệm có kiểm soát đạt mức IP68 theo tiêu chuẩn IEC 60529 (chống nước ở độ sâu tối đa 6 mét trong vòng tối đa 30 phút). Khả năng chống tia nước, chống nước và chống bụi không phải là các điều kiện vĩnh viễn. Khả năng này có thể giảm do hao mòn thông thường. Không sạc pin khi iPhone đang bị ướt.",
+            "Vui lòng tham khảo hướng dẫn sử dụng để biết cách lau sạch và làm khô máy. Không bảo hành sản phẩm bị hỏng do thấm chất lỏng.",
+            "Một số tính năng không khả dụng tại một số quốc gia hoặc khu vực."
+          ]
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Màn hình",
+          "value": "6.7″Super Retina XDR display"
+        },
+        {
+          "label": "Độ phân giải màn hình",
+          "value": "2556 x 1179 pixel ở 460 ppi"
+        },
+        {
+          "label": "Camera sau",
+          "value": "Chính: khẩu độ ƒ / 1,78, Chụp xa: khẩu độ ƒ / 2.8, Hệ thống camera chuyên nghiệp (48MP chính, 12MP siêu rộng và 12MP tele), Siêu rộng: khẩu độ ƒ / 2.2"
+        },
+        {
+          "label": "Camera trước",
+          "value": "12MP, khẩu độ ƒ / 1.9"
+        },
+        {
+          "label": "Pin",
+          "value": "Phát video lên tới 23 giờ (theo Apple)"
+        },
+        {
+          "label": "Sạc",
+          "value": "Sạc không dây MagSafe và Qi"
+        },
+        {
+          "label": "Kết nối mạng",
+          "value": "2 SIM (1 Nano SIM và 1 eSIM hoặc 2 eSIM), hỗ trợ 5G"
+        },
+        {
+          "label": "Chọn Chip",
+          "value": "Chip A16 Bionic,CPU 6 nhân, GPU 5 lõi, 16-core Neural Engine"
+        },
+        {
+          "label": "Chọn RAM",
+          "value": "6GB"
+        },
+        {
+          "label": "Bảo mật",
+          "value": "Face ID, Được kích hoạt bởi camera trước TrueDepth để nhận dạng khuôn mặts"
+        },
+        {
+          "label": "Chống nước",
+          "value": "IP68 (độ sâu tối đa 6 mét trong tối đa 30 phút) theo tiêu chuẩn IEC 60529"
+        },
+        {
+          "label": "Chất liệu",
+          "value": "Đang cập nhật"
+        },
+        {
+          "label": "Thương hiệu",
+          "value": "Apple"
+        }
+      ]
     },
+
     {
       "id": 7,
-      "name": "iPhone 11",
-      "price": "12.190.000đ"
-    },
-    {
-      "id": 8,
-      "name": "iPhone 13 mini",
-      "price": "17.690.000đ"
-    },
-    {
-      "id": 9,
-      "name": "iPhone 13 mini 256GB",
-      "price": "19.990.000đ"
-    },
-    {
-      "id": 10,
-      "name": "iPhone 13 mini 512GB",
-      "price": "21.990.000đ"
-    },
-    {
-      "id": 11,
-      "name": "iPhone 13 Pro",
-      "price": "24.490.000đ"
-    },
-    {
-      "id": 12,
-      "name": "iPhone 13 Pro 256GB",
-      "price": "26.990.000đ"
-    },
-    {
-      "id": 13,
-      "name": "iPhone 13 Pro 512GB",
-      "price": "32.990.000đ"
-    },
-    {
-      "id": 14,
-      "name": "iPhone 13 Pro 1TB",
-      "price": "37.990.000đ"
-    },
-    {
-      "id": 15,
-      "name": "iPhone SE (2022) 64GB",
-      "price": "10.790.000đ"
-    },
-    {
-      "id": 16,
-      "name": "iPhone 12 128GB",
-      "price": "18.290.000đ"
-    },
-    {
-      "id": 17,
-      "name": "iPhone SE (2022) 128GB",
-      "price": "11.990.000đ"
-    },
-    {
-      "id": 18,
-      "name": "iPhone SE (2022) 256GB",
-      "price": "14.990.000đ"
+      "name": "iPhone 12",
+      "price": [
+        "12.950.000đ",
+        "15.550.000đ"
+      ],
+      "imageBackground": "https://i.ibb.co/0CBBmFR/iphone12.webp",
+      "color": [
+        "#b1b3b6",
+        "#e3e5e3",
+        "#b0e1c4",
+        "#c9d9e5",
+        "#ebb9b0"
+      ],
+      "imageProfile": [
+        "https://i.ibb.co/twRm3Mx/i-Pad-air-gen4-space-grey-profile.png",
+        "https://i.ibb.co/jrtPCqN/i-Pad-air-gen4-silver-profile.png",
+        "https://i.ibb.co/cx1CyTq/i-Pad-air-gen4-green-profile.png",
+        "https://i.ibb.co/KsK3ydV/i-Pad-air-gen4-skyblue-profile.png",
+        "https://i.ibb.co/M2fQRCy/i-Pad-air-gen4-pink-profile.png"
+      ],
+      "storage": [
+        "64GB",
+        "256GB"
+      ],
+      "services": [
+        "Hư gì đổi nấy 12 tháng",
+        "Bảo hành chính hãng 1 năm",
+        "Giao hàng nhanh toàn quốc",
+        "Gọi đặt mua 1900.6626 (7:30 - 22:00)"
+      ],
+      "description": [
+        {
+          "heading": "iPad Air 2020",
+          "desc": [
+            "Màn hình Liquid Retina 10.9 inch tuyệt đẹp và công nghệ True Tone cho bạn những trải nghiệm thị giác thật dễ chịu. Chip A14 Bionic mới cùng công nghệ Neural Engine là nền tảng sức mạnh giúp bạn biên tập video 4K, soạn nhạc và giải trí cùng các trò chơi đẳng cấp, mọi tác vụ đều trở nên vô cùng đơn giản. Touch ID nhanh nhạy và dễ sử dụng với tính năng bảo mật cao, hệ thống camera hiện đại, USB-C, hỗ trợ đa dạng phụ kiện kể cả Magic Keyboard và Apple Pencil (thế hệ thứ 2).",
+            "Màn hình Liquid Retina 10.9 inch sắc nét với True Tone và dải màu rộng P3",
+            "Chip A14 Bionic với Neural Engine",
+            "Xác thực bảo mật với Touch ID",
+            "Camera sau 12MP, camera trước FaceTime HD 7MP",
+            "Hiện có các màu Bạc, Xám Bạc, Hồng Kim, Xanh Lá và Xanh Da Trời",
+            "Âm thanh stereo rộng",
+            "Wi-Fi 6 (802.11ax) và dữ liệu di động LTE Gigabit",
+            "Thời lượng pin lên đến 10 giờ",
+            "Cổng kết nối USB-C để sạc và kết nối phụ kiện",
+            "Hỗ trợ Magic Keyboard, Smart Keyboard Folio và Apple Pencil (thế hệ thứ 2)",
+            "iPadOS 14 mang đến cho bạn các chức năng mới được thiết kế dành riêng cho iPad"
+          ]
+        },
+        {
+          "heading": "Bộ sản phẩm bao gồm ",
+          "desc": [
+            "Máy tính bảng. Dây sạc. Củ sạc 20W. HDSD bảo hành điện tử 12 tháng"
+          ]
+        },
+        {
+          "heading": "Các thông tin Apple đảm bảo ( Pháp lý )",
+          "desc": [
+            "Màn hình có các góc bo tròn. Khi tính theo hình chữ nhật, kích thước màn hình iPad Air (thế hệ thứ 4) là 10.86 inch theo đường chéo. Diện tích hiển thị thực tế nhỏ hơn. Không bán kèm phụ kiện. Khả năng tương thích tùy thuộc thế hệ sản phẩm.Thời lượng pin khác nhau tùy theo cách sử dụng và cấu hình. Truy cập apple.com/batteries để biết thêm thông tin. Cần có gói cước dữ liệu. Mạng LTE Gigabit, 4G LTE Advanced, 4G LTE và gọi Wi-Fi chỉ khả dụng ở một số thị trường và được cung cấp qua một số nhà mạng. Tốc độ phụ thuộc vào thông lượng lý thuyết và có thể thay đổi tùy địa điểm và nhà mạng. Để biết thông tin về hỗ trợ mạng LTE, vui lòng liên hệ nhà mạng và truy cập apple.com/ipad/LTE."
+          ]
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Thương hiệu",
+          "value": "Apple"
+        },
+        {
+          "label": "Màu sắc",
+          "value": "Silver, Space Grey, Rose Gold, Green, Sky Blue"
+        },
+        {
+          "label": "Bộ nhớ",
+          "value": "Bản Wi-Fi: 64GB, 256GB, Bản Wi-Fi + Di động: 64GB, 256GB"
+        },
+        {
+          "label": "Kích thước",
+          "value": "Dài: 247.6 mm, Rộng: 178,5 mm, Dày: 6.1 mm"
+        },
+        {
+          "label": "Màn hình",
+          "value": "Liquid Retina, 10.9 inch cảm ứng đa điểm, công nghệ IPS, 2360 x 1640 pixels, Độ sáng tối đa 500 nit, -, Lớp phủ oleophobic chống bám vân tay, Lớp phủ chống chói, -, Chuẩn màu P3, TrueTone"
+        },
+        {
+          "label": "Chip",
+          "value": "Apple A14 Bionic, Neural Engine"
+        },
+        {
+          "label": "Pin và sạc",
+          "value": "Lướt web bằng Wi-Fi hoặc xem video lên đến 10 giờ, Lướt web bằng dữ liệu di động 9 giờ"
+        },
+        {
+          "label": "Tương thích Apple Pencil",
+          "value": "Apple Pencil 2"
+        },
+        {
+          "label": "Tương thích bàn phím iPad",
+          "value": "Magic Keyboard, Smart Folio Keyboard"
+        },
+        {
+          "label": "Camera",
+          "value": "Camera góc rộng 12 MP, -, Rộng: khẩu độ ƒ / 1.8, -, -, Zoom số 5x, -, Smart HDR 3"
+        },
+        {
+          "label": "Quay video",
+          "value": "Quay video 4K tại 24 fps, 25 fps, 30 fps hoặc 60 fps, Quay video 1080p tại 60 fps, -, -, Zoom số 3x, -, Slo-mo video 1080p tại 120fps hoặc 240fps, Chống rung Time-lapse"
+        },
+        {
+          "label": "Camera trước",
+          "value": "FaceTime HD camera, Chụp ảnh 7MP, Khẩu độ ƒ / 2.2, -, -, Retina Flash, Smart HDR 3, -, -, -, Chố́ng rung video Cinematic, Quay video 1080p"
+        },
+        {
+          "label": "Audio",
+          "value": "2 loa"
+        },
+        {
+          "label": "Bảo mật",
+          "value": "Touch ID"
+        },
+        {
+          "label": "Kết nối",
+          "value": "Wi-Fi 6, Bluetooth 5.0, 4G"
+        },
+        {
+          "label": "Cổng kết nối",
+          "value": "Cổng sạc USB-C, Smart Connector"
+        },
+        {
+          "label": "Cảm biến",
+          "value": "Touch ID, -, Con quay hồi chuyển, Gia tốc kế, Cảm biến ánh sáng xung quanh, Áp kế"
+        }
+      ]
     }
   ],
   "backgroundiphones": [
@@ -190,12 +874,57 @@
       "url": "https://i.ibb.co/5nT9jsc/iphone2.jpg"
     }
   ],
+  "backgroundipads": [
+    {
+      "id": 1,
+      "url": "https://i.ibb.co/5LRBjxJ/banner-ipad2.webp"
+    },
+    {
+      "id": 2,
+      "url": "https://i.ibb.co/zmqZDNC/Banner-ipad-gen10.webp"
+    }
+  ],
+
+
   "ipads": [
     {
       "id": 1,
-      "name": "iPad Air 4 10.9 inch Wi-Fi 64GB",
-      "image": "https://i.ibb.co/kMdF09v/ipadair4.webp",
-      "price": "13.790.000đ"
+      "name": "iPad Air 4 10.9 inch Wi-Fi",
+      "price": [
+
+      ],
+      "imageBackground": "https://i.ibb.co/kMdF09v/ipadair4.webp",
+      "color": [
+
+      ],
+      "imageProfile": [
+
+      ],
+      "storage": [
+
+      ],
+      "services": [
+
+      ],
+      "description": [
+        {
+          "heading": "iPhone 13",
+          "desc": [
+          ]
+        },
+        {
+          "heading": "",
+          "desc": [
+
+          ]
+        }
+      ],
+      "specifications": [
+        {
+          "label": "",
+          "value": ""
+        }
+      ]
     },
     {
       "id": 2,
