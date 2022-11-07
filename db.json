@@ -215,27 +215,26 @@
   "macs": [
     {
       "id": 1,
-      "heading": "iPhone",
       "name": "Macbook Pro M2 2022 (16GB RAM)",
-      "image": "https://ibb.co/BngG8jh",
+      "image": "https://i.ibb.co/Z2hSyKQ/macbookprom2.png",
       "price": "37.990.000đ"
     },
     {
       "id": 2,
       "name": "MacBook Pro 14 M1 Pro (16-Core/16GB/1TB)",
-      "image": "https://ibb.co/wJCdQY9",
+      "image": "https://i.ibb.co/mqRQVFY/macbookpro14silver.png",
       "price": "57.990.000đ"
     },
     {
       "id": 3,
       "name": "MacBook Air M1 2020",
-      "image": "https://ibb.co/bFyWvw1",
+      "image": "https://i.ibb.co/tzNm2jB/macbookairm1.png",
       "price": "21.990.000đ"
     },
     {
       "id": 4,
       "name": "MacBook Pro M1 2020",
-      "image": "https://ibb.co/RvQxLRz",
+      "image": "https://i.ibb.co/0DYgPHh/macbookprom1.png",
       "price": "28.990.000đ"
     }
   ]
