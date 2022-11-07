@@ -1619,11 +1619,11 @@
       "specifications": [
         {
           "label": "Thương hiệu",
-          "value": "Apple"
+          "value": ["Apple"]
         },
         {
           "label": "Chọn Dung lượng",
-          "value": "512GB"
+          "value": ["512GB"]
         },
         {
           "label": "Bộ xử lý",
@@ -1657,7 +1657,7 @@
         {
           "label": "Đồ họa và Âm thanh",
           "value": [
-            "Card màn hình: Card tích hợp – 10 nhân GPU",
+            "Card màn hình: Card tích hợp – 10 nhân GPU ",
             "Công nghệ âm thanh:",
             "– 3 microphones",
             "– Dolby Atmos Loa kép (2 kênh)",
