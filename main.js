@@ -25,7 +25,6 @@ server.use((req, res, next) => {
 
 //Use default router
 server.use("/api", router);
-
 //Start server
 const POST = process.env.PORT || 3000;
 server.listen(POST, () => {

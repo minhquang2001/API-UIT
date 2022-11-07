@@ -1574,7 +1574,7 @@
 
 
 
-  
+
   "macs": [
     {
       "id": 1,
@@ -1834,6 +1834,19 @@
           "value": ""
         }
       ]
+    }
+  ],
+
+
+
+  "backgroundmacs": [
+    {
+      "id": 1,
+      "url": "https://i.ibb.co/4RVw5Lp/mac1.jpg"
+    },
+    {
+      "id": 2,
+      "url": "https://i.ibb.co/dKRp4yy/mac2.png"
     }
   ]
 }
