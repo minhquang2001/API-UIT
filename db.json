@@ -215,6 +215,7 @@
     }
   ],
   "macs": [
+    "Mac",
     {
       "id": 1,
       "heading": "iPhone",
