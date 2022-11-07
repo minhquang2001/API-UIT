@@ -2,12 +2,29 @@
   "iphones": [
     {
       "id": 1,
+      "heading": "iPhone",
       "name": "iPhone 13 Pro Max",
-      "price": ["26.990.000đ", "29.990.000đ", "34.990.000đ"],
+      "price": [
+        "26.990.000đ",
+        "29.990.000đ",
+        "34.990.000đ"
+      ],
       "imageBackground": "https://i.ibb.co/0mMKVrL/iphone13promax.webp",
-      "color": ["#2e6110", "#2176be", "#fbecd3"],
-      "imageProfile": ["https://i.ibb.co/9qFqM5g/iphone13promax-green-profile.png", "https://i.ibb.co/b68R2H6/iphone13promax-blue-profile.png", "https://i.ibb.co/23GxWxS/iphone13promax-gold-profile.png"],
-      "storage": ["128GB", "256GB", "512GB"],
+      "color": [
+        "#2e6110",
+        "#2176be",
+        "#fbecd3"
+      ],
+      "imageProfile": [
+        "https://i.ibb.co/9qFqM5g/iphone13promax-green-profile.png",
+        "https://i.ibb.co/b68R2H6/iphone13promax-blue-profile.png",
+        "https://i.ibb.co/23GxWxS/iphone13promax-gold-profile.png"
+      ],
+      "storage": [
+        "128GB",
+        "256GB",
+        "512GB"
+      ],
       "services": [
         "Bộ sản phẩm gồm: Hộp, Sách hướng dẫn, Cây lấy sim, Cáp Lightning - Type C",
         "Bảo hành chính hãng 1 năm",
@@ -17,23 +34,25 @@
       "description": [
         {
           "heading": "iPhone 14 Pro vượt trội.",
-          "desc": ["iPhone 14 Pro. Bắt trọn chi tiết ấn tượng với Camera Chính 48MP. Trải nghiệm iPhone theo cách hoàn toàn mới với Dynamic Island và màn hình Luôn Bật. Phát Hiện Va Chạm, một tính năng an toàn mới, thay bạn gọi trợ giúp khi cần kíp."]
+          "desc": [
+            "iPhone 14 Pro. Bắt trọn chi tiết ấn tượng với Camera Chính 48MP. Trải nghiệm iPhone theo cách hoàn toàn mới với Dynamic Island và màn hình Luôn Bật. Phát Hiện Va Chạm, một tính năng an toàn mới, thay bạn gọi trợ giúp khi cần kíp."
+          ]
         },
         {
           "heading": "Tính năng nổi bật.",
           "desc": [
-                  "Màn hình Super Retina XDR 6,1 inch với tính năng Luôn Bật và ProMotion",
-                  "Dynamic Island, một cách mới tuyệt diệu để tương tác với iPhone",
-                  "Camera Chính 48MP cho độ phân giải gấp 4 lần"
-                  ]
+            "Màn hình Super Retina XDR 6,1 inch với tính năng Luôn Bật và ProMotion",
+            "Dynamic Island, một cách mới tuyệt diệu để tương tác với iPhone",
+            "Camera Chính 48MP cho độ phân giải gấp 4 lần"
+          ]
         },
         {
           "heading": "Pháp lý",
           "desc": [
-                  "SOS Khẩn Cấp sử dụng kết nối mạng di động hoặc Cuộc Gọi Wi-Fi.",
-                  "Màn hình có các góc bo tròn. Khi tính theo hình chữ nhật, kích thước màn hình theo đường chéo là 6,12 inch. Diện tích hiển thị thực tế nhỏ hơn.",
-                  "Thời lượng pin khác nhau tùy theo cách sử dụng và cấu hình; truy cập apple.com/batteries để biết thêm thông tin."
-                  ]
+            "SOS Khẩn Cấp sử dụng kết nối mạng di động hoặc Cuộc Gọi Wi-Fi.",
+            "Màn hình có các góc bo tròn. Khi tính theo hình chữ nhật, kích thước màn hình theo đường chéo là 6,12 inch. Diện tích hiển thị thực tế nhỏ hơn.",
+            "Thời lượng pin khác nhau tùy theo cách sử dụng và cấu hình; truy cập apple.com/batteries để biết thêm thông tin."
+          ]
         }
       ],
       "specifications": [
@@ -56,21 +75,33 @@
         {
           "label": "Pin",
           "value": "Chính: khẩu độ ƒ / 1,78, Chụp xa: khẩu độ ƒ / 2.8, Hệ thống camera chuyên nghiệp (48MP chính, 12MP siêu rộng và 12MP tele), Siêu rộng: khẩu độ ƒ / 2.2"
-        }      
+        }
       ]
     },
     {
       "id": 2,
       "name": "iPhone 13",
-      "price": ["18.990.000đ", "21.990.000đ"],
-      "storage": ["128GB", "256GB"],
+      "price": [
+        "18.990.000đ",
+        "21.990.000đ"
+      ],
+      "storage": [
+        "128GB",
+        "256GB"
+      ],
       "url": "https://i.ibb.co/w03CnDF/iphone13.webp"
     },
     {
       "id": 3,
       "name": "iPhone 12",
-      "price": ["15.390.000đ", "18.990.000đ"],
-      "storage": ["128GB", "256GB"],
+      "price": [
+        "15.390.000đ",
+        "18.990.000đ"
+      ],
+      "storage": [
+        "128GB",
+        "256GB"
+      ],
       "url": "https://i.ibb.co/0CBBmFR/iphone12.webp"
     },
     {
