@@ -119,8 +119,6 @@
         }
       ]
     },
-
-
     {
       "id": 2,
       "name": "iPhone 13 Pro",
@@ -236,8 +234,6 @@
         }
       ]
     },
-
-
     {
       "id": 3,
       "name": "iPhone 13",
@@ -353,8 +349,6 @@
         }
       ]
     },
-
-
     {
       "id": 4,
       "name": "iPhone 13 mini",
@@ -470,8 +464,6 @@
         }
       ]
     },
-
-
     {
       "id": 5,
       "name": "iPhone 14 Pro Max",
@@ -500,7 +492,6 @@
         "512GB",
         "1TB"
       ],
-      
       "services": [
         "Bộ sản phẩm gồm: Hộp, Sách hướng dẫn, Cây lấy sim, Cáp Lightning - Type C",
         "Bảo hành chính hãng 1 năm",
@@ -599,8 +590,6 @@
         }
       ]
     },
-
-
     {
       "id": 6,
       "name": "iPhone 14 Pro",
@@ -629,7 +618,6 @@
         "512GB",
         "1TB"
       ],
-      
       "services": [
         "Bộ sản phẩm gồm: Hộp, Sách hướng dẫn, Cây lấy sim, Cáp Lightning - Type C",
         "Bảo hành chính hãng 1 năm",
@@ -728,7 +716,6 @@
         }
       ]
     },
-
     {
       "id": 7,
       "name": "iPhone 12",
@@ -864,6 +851,10 @@
       ]
     }
   ],
+
+
+
+
   "backgroundiphones": [
     {
       "id": 1,
@@ -874,52 +865,932 @@
       "url": "https://i.ibb.co/5nT9jsc/iphone2.jpg"
     }
   ],
-  "backgroundipads": [
-    {
-      "id": 1,
-      "url": "https://i.ibb.co/5LRBjxJ/banner-ipad2.webp"
-    },
-    {
-      "id": 2,
-      "url": "https://i.ibb.co/zmqZDNC/Banner-ipad-gen10.webp"
-    }
-  ],
+
+
+
+
 
 
   "ipads": [
     {
       "id": 1,
-      "name": "iPad Air 4 10.9 inch Wi-Fi",
+      "name": "iPad Air 4",
       "price": [
-
+        "12.950.000đ",
+        "15.550.000đ"
       ],
       "imageBackground": "https://i.ibb.co/kMdF09v/ipadair4.webp",
       "color": [
-
+        "#b1b3b6",
+        "#e3e5e3",
+        "#b0e1c4",
+        "#c9d9e5",
+        "#ebb9b0"
       ],
       "imageProfile": [
-
+        "https://i.ibb.co/twRm3Mx/i-Pad-air-gen4-space-grey-profile.png",
+        "https://i.ibb.co/jrtPCqN/i-Pad-air-gen4-silver-profile.png",
+        "https://i.ibb.co/cx1CyTq/i-Pad-air-gen4-green-profile.png",
+        "https://i.ibb.co/KsK3ydV/i-Pad-air-gen4-skyblue-profile.png",
+        "https://i.ibb.co/M2fQRCy/i-Pad-air-gen4-pink-profile.png"
       ],
       "storage": [
-
+        "64GB",
+        "256GB"
       ],
       "services": [
-
+        "Hư gì đổi nấy 12 tháng",
+        "Bảo hành chính hãng 1 năm",
+        "Giao hàng nhanh toàn quốc",
+        "Gọi đặt mua 1900.6626 (7:30 - 22:00)"
       ],
       "description": [
         {
-          "heading": "iPhone 13",
+          "heading": "iPad Air 2020",
           "desc": [
+            "Màn hình Liquid Retina 10.9 inch tuyệt đẹp và công nghệ True Tone cho bạn những trải nghiệm thị giác thật dễ chịu. Chip A14 Bionic mới cùng công nghệ Neural Engine là nền tảng sức mạnh giúp bạn biên tập video 4K, soạn nhạc và giải trí cùng các trò chơi đẳng cấp, mọi tác vụ đều trở nên vô cùng đơn giản. Touch ID nhanh nhạy và dễ sử dụng với tính năng bảo mật cao, hệ thống camera hiện đại, USB-C, hỗ trợ đa dạng phụ kiện kể cả Magic Keyboard và Apple Pencil (thế hệ thứ 2).",
+            "Màn hình Liquid Retina 10.9 inch sắc nét với True Tone và dải màu rộng P3",
+            "Chip A14 Bionic với Neural Engine",
+            "Xác thực bảo mật với Touch ID",
+            "Camera sau 12MP, camera trước FaceTime HD 7MP",
+            "Hiện có các màu Bạc, Xám Bạc, Hồng Kim, Xanh Lá và Xanh Da Trời",
+            "Âm thanh stereo rộng",
+            "Wi-Fi 6 (802.11ax) và dữ liệu di động LTE Gigabit",
+            "Thời lượng pin lên đến 10 giờ",
+            "Cổng kết nối USB-C để sạc và kết nối phụ kiện",
+            "Hỗ trợ Magic Keyboard, Smart Keyboard Folio và Apple Pencil (thế hệ thứ 2)",
+            "iPadOS 14 mang đến cho bạn các chức năng mới được thiết kế dành riêng cho iPad"
           ]
         },
         {
-          "heading": "",
+          "heading": "Bộ sản phẩm bao gồm ",
           "desc": [
-
+            "Máy tính bảng. Dây sạc. Củ sạc 20W. HDSD bảo hành điện tử 12 tháng"
+          ]
+        },
+        {
+          "heading": "Các thông tin Apple đảm bảo ( Pháp lý )",
+          "desc": [
+            "Màn hình có các góc bo tròn. Khi tính theo hình chữ nhật, kích thước màn hình iPad Air (thế hệ thứ 4) là 10.86 inch theo đường chéo. Diện tích hiển thị thực tế nhỏ hơn. Không bán kèm phụ kiện. Khả năng tương thích tùy thuộc thế hệ sản phẩm.Thời lượng pin khác nhau tùy theo cách sử dụng và cấu hình. Truy cập apple.com/batteries để biết thêm thông tin. Cần có gói cước dữ liệu. Mạng LTE Gigabit, 4G LTE Advanced, 4G LTE và gọi Wi-Fi chỉ khả dụng ở một số thị trường và được cung cấp qua một số nhà mạng. Tốc độ phụ thuộc vào thông lượng lý thuyết và có thể thay đổi tùy địa điểm và nhà mạng. Để biết thông tin về hỗ trợ mạng LTE, vui lòng liên hệ nhà mạng và truy cập apple.com/ipad/LTE."
           ]
         }
       ],
       "specifications": [
+        {
+          "label": "Thương hiệu",
+          "value": "Apple"
+        },
+        {
+          "label": "Màu sắc",
+          "value": "Silver, Space Grey, Rose Gold, Green, Sky Blue"
+        },
+        {
+          "label": "Bộ nhớ",
+          "value": "Bản Wi-Fi: 64GB, 256GB, Bản Wi-Fi + Di động: 64GB, 256GB"
+        },
+        {
+          "label": "Kích thước",
+          "value": "Dài: 247.6 mm, Rộng: 178,5 mm, Dày: 6.1 mm"
+        },
+        {
+          "label": "Màn hình",
+          "value": "Liquid Retina, 10.9 inch cảm ứng đa điểm, công nghệ IPS, 2360 x 1640 pixels, Độ sáng tối đa 500 nit, -, Lớp phủ oleophobic chống bám vân tay, Lớp phủ chống chói, -, Chuẩn màu P3, TrueTone"
+        },
+        {
+          "label": "Chip",
+          "value": "Apple A14 Bionic, Neural Engine"
+        },
+        {
+          "label": "Pin và sạc",
+          "value": "Lướt web bằng Wi-Fi hoặc xem video lên đến 10 giờ, Lướt web bằng dữ liệu di động 9 giờ"
+        },
+        {
+          "label": "Tương thích Apple Pencil",
+          "value": "Apple Pencil 2"
+        },
+        {
+          "label": "Tương thích bàn phím iPad",
+          "value": "Magic Keyboard, Smart Folio Keyboard"
+        },
+        {
+          "label": "Camera",
+          "value": "Camera góc rộng 12 MP, -, Rộng: khẩu độ ƒ / 1.8, -, -, Zoom số 5x, -, Smart HDR 3"
+        },
+        {
+          "label": "Quay video",
+          "value": "Quay video 4K tại 24 fps, 25 fps, 30 fps hoặc 60 fps, Quay video 1080p tại 60 fps, -, -, Zoom số 3x, -, Slo-mo video 1080p tại 120fps hoặc 240fps, Chống rung Time-lapse"
+        },
+        {
+          "label": "Camera trước",
+          "value": "FaceTime HD camera, Chụp ảnh 7MP, Khẩu độ ƒ / 2.2, -, -, Retina Flash, Smart HDR 3, -, -, -, Chố́ng rung video Cinematic, Quay video 1080p"
+        },
+        {
+          "label": "Audio",
+          "value": "2 loa"
+        },
+        {
+          "label": "Bảo mật",
+          "value": "Touch ID"
+        },
+        {
+          "label": "Kết nối",
+          "value": "Wi-Fi 6, Bluetooth 5.0, 4G"
+        },
+        {
+          "label": "Cổng kết nối",
+          "value": "Cổng sạc USB-C, Smart Connector"
+        },
+        {
+          "label": "Cảm biến",
+          "value": "Touch ID, -, Con quay hồi chuyển, Gia tốc kế, Cảm biến ánh sáng xung quanh, Áp kế"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "iPad Air 5",
+      "price": [
+        "15.150.000đ",
+        "18.650.000đ"
+      ],
+      "imageBackground": "https://i.ibb.co/R4VtxQr/ipadair5.webp",
+      "color": [
+        "#f4e9d4",
+        "#b1b3b6",
+        "#174c6f",
+        "#bab4e7",
+        "#e9b8af"
+      ],
+      "imageProfile": [
+        "https://i.ibb.co/wrFVPpj/ipad-air-5-gold-profile.webp",
+        "https://i.ibb.co/sC2VkD3/ipad-air-5-grey-profile.jpg",
+        "https://i.ibb.co/TRhP37b/ipad-air-5-blue-profile.jpg",
+        "https://i.ibb.co/wh5Qd1C/ipad-air-5-purple-profile.jpg",
+        "https://i.ibb.co/y0LHQZJ/ipad-air-5-pink-profile.jpg"
+      ],
+      "storage": [
+        "64GB",
+        "256GB"
+      ],
+      "services": [
+        "Hư gì đổi nấy 12 tháng",
+        "Bảo hành chính hãng 1 năm",
+        "Giao hàng nhanh toàn quốc",
+        "Gọi đặt mua 1900.6626 (7:30 - 22:00)"
+      ],
+      "description": [
+        {
+          "heading": "iPad Air 5 (2022)",
+          "desc": [
+            "iPad Air. Với màn hình Liquid Retina 10.9 inch sống động. Chip Apple M1 đột phá cho hiệu năng nhanh hơn, giúp iPad Air trở nên siêu mạnh mẽ để sáng tạo và chơi game di động. Sở hữu Touch ID, camera tiên tiến, 5G và Wi-Fi 6 nhanh như chớp, cổng USB-C, cùng khả năng hỗ trợ Magic Keyboard và Apple Pencil (thế hệ thứ 2).",
+            "Màn hình Liquid Retina 10.9 inch với True Tone, dải màu rộng P3 và lớp phủ chống phản chiếu",
+            "Chip Apple M1 với Neural Engine",
+            "Camera Wide 12MP",
+            "Camera trước Ultra Wide 12MP với tính năng Trung Tâm Màn Hình",
+            "Ổ lưu trữ lên đến 256GB",
+            "Hiện có màu Xanh Dương, Tím, Hồng, Ánh Sao và Xám Bạc",
+            "Loa stereo ở cạnh trên và cạnh dưới",
+            "Xác thực bảo mật với Touch ID",
+            "Pin dùng cả ngày",
+            "Wi-Fi 6 và mạng 5G",
+            "Cổng kết nối USB-C để sạc và kết nối phụ kiện",
+            "Tương thích với Magic Keyboard, Smart Keyboard Folio và Apple Pencil (thế hệ thứ 2)",
+            "iPadOS 15 sở hữu sức mạnh độc đáo, dễ sử dụng và được thiết kế cho tính đa năng của iPad"
+          ]
+        },
+        {
+          "heading": "Các thông tin Apple đảm bảo ( Pháp lý) ",
+          "desc": [
+            "Ứng dụng có sẵn trên App Store. Nội dung được cung cấp có thể thay đổi. Màn hình có các góc bo tròn. Khi tính theo đường chéo hình chữ nhật, kích thước màn hình iPad Air là 10.86 inch. Diện tích hiển thị thực tế nhỏ hơn. Cần có gói cước dữ liệu. Mạng 5G chỉ khả dụng ở một số thị trường và được cung cấp qua một số nhà mạng. Tốc độ có thể thay đổi tùy địa điểm và nhà mạng. Để biết thông tin về hỗ trợ mạng 5G, vui lòng liên hệ nhà mạng và truy cập apple.com/ipad/cellular. Phụ kiện được bán riêng. Khả năng tương thích tùy thuộc thế hệ sản phẩm. Thời lượng pin khác nhau tùy theo cách sử dụng và cấu hình. Truy cập apple.com/batteries để biết thêm thông tin."
+          ]
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Thương hiệu",
+          "value": "Apple"
+        },
+        {
+          "label": "Chọn Dung lượng",
+          "value": "256GB"
+        },
+        {
+          "label": "Chọn Model",
+          "value": "Wi-Fi"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "iPad 9",
+      "price": [
+        "7.850.000đ",
+        "11.490.000đ"
+      ],
+      "imageBackground": "https://i.ibb.co/Q9ffSCF/ipadgen9.webp",
+      "color": [
+        "#b1b3b6",
+        "#d3d5d3"
+      ],
+      "imageProfile": [
+        "https://i.ibb.co/Jt3jZMt/ipad-9-grey-profile.jpg",
+        "https://i.ibb.co/CQf2KrM/ipad-9-sliver-profile.jpg"
+      ],
+      "storage": [
+        "64GB",
+        "256GB"
+      ],
+      "services": [
+        "Hư gì đổi nấy 12 tháng",
+        "Bảo hành chính hãng 1 năm",
+        "Giao hàng nhanh toàn quốc",
+        "Gọi đặt mua 1900.6626 (7:30 - 22:00)"
+      ],
+      "description": [
+        {
+          "heading": "iPad Gen 9 (2021)",
+          "desc": [
+            "Mạnh mẽ. Dễ sử dụng. Đa năng. Học sinh thích học với iPad mới. Với chip A13 Bionic mạnh mẽ, thời lượng pin bền bỉ cả ngày, màn hình Retina 10.2 inch tuyệt đẹp, Wi-Fi siêu nhanh, camera trước Ultra Wide với tính năng Trung Tâm Màn Hình, và tương thích với Apple Pencil và the Smart Keyboard. iPad giúp học sinh làm việc và học tập nhiều hơn và dễ dàng hơn. Tất cả tính năng với mức giá ấn tượng.",
+            "Chip A13 Bionic với Neural Engine cho sức mạnh để xử lý mọi khối lượng bài tập",
+            "Bộ lưu trữ lên tới 256GB để lưu trữ tài liệu học tập, ảnh, video và game",
+            "iPad luôn sẵn sàng phục vụ mục đích học tập hay giải trí với thời lượng pin bền bỉ cả ngày",
+            "Màn hình Retina 10.2 inch tuyệt đẹp với công nghệ True Tone cho bạn không gian màn hình thoải mái để làm bài tập",
+            "Wi-Fi 6 (802.11ax) và dữ liệu di động LTE chuẩn Gigabit khi không có WI-FI",
+            "Camera trước Ultra Wide 12MP với tính năng Trung Tâm Màn Hình cho các cuộc gọi video lôi cuốn hơn",
+            "Tương thích với Apple Pencil (thế hệ thứ 1) và Smart Keyboard",
+            "iPadOS 15 sở hữu sức mạnh độc đáo, dễ sử dụng và được thiết kế cho tính đa năng của iPad",
+            "Bền bỉ với thời gian để giúp bạn tiết kiệm chi phí và bảo vệ môi trường"
+          ]
+        },
+        {
+          "heading": "Các thông tin Apple đảm bảo ( Pháp lý )",
+          "desc": [
+            "Ứng dụng có sẵn trên App Store. Nội dung được cung cấp có thể thay đổi. Thời lượng pin khác nhau tùy theo cách sử dụng và cấu hình. Truy cập apple.com/batteries để biết thêm thông tin. Phụ kiện được bán riêng. Khả năng tương thích tùy thuộc thế hệ sản phẩm. Cần có gói cước dữ liệu. Mạng LTE chuẩn Gigabit, 4G LTE Advanced, 4G LTE và gọi Wi-Fi chỉ khả dụng ở một số thị trường và được cung cấp qua một số nhà mạng. Tốc độ phụ thuộc vào thông lượng lý thuyết và có thể thay đổi tùy địa điểm và nhà mạng. Để biết thông tin về hỗ trợ mạng LTE, vui lòng liên hệ nhà mạng và truy cập apple.com/ipad/cellular."
+          ]
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Thương hiệu",
+          "value": "Apple"
+        },
+        {
+          "label": "Màn hình",
+          "value": "10.2”, IPS LCD, Retina"
+        },
+        {
+          "label": "Độ phân giải màn hình",
+          "value": "2160 x 1620 Pixels"
+        },
+        {
+          "label": "Kết nối bàn phím",
+          "value": "Smart Keyboard"
+        },
+        {
+          "label": "Kết nối bút",
+          "value": "Apple Pencil"
+        },
+        {
+          "label": "Pin",
+          "value": "Khoảng 8.200 mAh"
+        },
+        {
+          "label": "Cổng sạc",
+          "value": "Lightning"
+        },
+        {
+          "label": "Bảo mật",
+          "value": "Touch ID"
+        },
+        {
+          "label": "Chip",
+          "value": "A13 Bionic"
+        },
+        {
+          "label": "Bộ nhớ",
+          "value": "64GB, 256GB"
+        },
+        {
+          "label": "Kết nối mạng",
+          "value": "1 Nano SIM hoặc 1 eSIM, hỗ trợ 4G, Wifi"
+        },
+        {
+          "label": "Camera sau",
+          "value": "8MP"
+        },
+        {
+          "label": "Camera trước",
+          "value": "12MP"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "iPad mini 6 (2021)",
+      "price": [
+        "12.950.00đ",
+        "16.650.000đ"
+      ],
+      "imageBackground": "https://i.ibb.co/b1kQL73/ipadmini6.webp",
+      "color": [
+        "#f4e9d4",
+        "#b1b3b6",
+        "#bab4e7",
+        "#ebb9b0"
+      ],
+      "imageProfile": [
+        "https://i.ibb.co/DD3fWrG/ipad-mini-6-gold-profile.webp",
+        "https://i.ibb.co/FBGy2LR/ipad-mini-6-grey-profile.webp",
+        "https://i.ibb.co/5cWh4Zm/ipad-mini-6-purple-profile.webp",
+        "https://i.ibb.co/JxYZT03/ipad-mini-6-pink-profile.webp"
+      ],
+      "storage": [
+        "64GB",
+        "256GB"
+      ],
+      "services": [
+        "Hư gì đổi nấy 12 tháng",
+        "Bảo hành chính hãng 1 năm",
+        "Giao hàng nhanh toàn quốc",
+        "Gọi đặt mua 1900.6626 (7:30 - 22:00)"
+      ],
+      "description": [
+        {
+          "heading": "iPad mini 6 (2021)",
+          "desc": [
+            "iPad mini mới. Thiết kế màn hình toàn phần với màn hình Liquid Retina 8.3 inch. Chip A15 Bionic mạnh mẽ với Neural Engine. Camera trước Ultra Wide 12MP với tính năng Trung Tâm Màn Hình. Cổng kết nối USB-C. Mạng 5G siêu nhanh. Ghi chú, đánh dấu tài liệu hoặc phác thảo ngay khi những ý tưởng lớn xuất hiện trong đầu với Apple Pencil (thế hệ thứ 2) có khả năng gắn kết bằng nam châm và sạc không dây.",
+            "Màn hình Liquid Retina 8.3 inch tuyệt đẹp với True Tone và dải màu rộng",
+            "Chip A15 Bionic với Neural Engine",
+            "Xác thực bảo mật với Touch ID",
+            "Camera sau Wide 12MP, camera trước Ultra Wide 12MP với tính năng Trung Tâm Màn Hình",
+            "Hiện có các màu tím, ánh sao, hồng và xám bạc",
+            "Loa stereo ở cạnh trên và cạnh dưới",
+            "Mạng 5G cho tốc độ tải xuống, xem video và nghe nhạc trực tuyến nhanh như chớp",
+            "Luôn kết nối với Wi-Fi 6 siêu nhanh",
+            "Thời lượng pin lên tới 10 giờ",
+            "Cổng kết nối USB-C để sạc và kết nối phụ kiện",
+            "Tương thích với Apple Pencil (thế hệ thứ 2)",
+            "iPadOS 15 sở hữu sức mạnh độc đáo, dễ sử dụng và được thiết kế cho tính đa năng của iPad"
+          ]
+        },
+        {
+          "heading": "Các thông tin Apple đảm bảo ( Pháp lý )",
+          "desc": [
+            "Màn hình có các góc bo tròn. Khi tính theo đường chéo hình chữ nhật, màn hình iPad mini 8.3 inch có kích thước là 8.3 inch. Diện tích hiển thị thực tế nhỏ hơn. Cần có gói cước dữ liệu. Mạng 5G, LTE Gigabit, LTE và gọi Wi-Fi chỉ khả dụng ở một số thị trường và được cung cấp qua một số nhà mạng. Tốc độ phụ thuộc vào thông lượng lý thuyết và có thể thay đổi tùy địa điểm và nhà mạng. Để biết thông tin về hỗ trợ mạng 5G và LTE, vui lòng liên hệ nhà mạng và truy cập apple.com/ipad/cellular. Phụ kiện được bán riêng. Khả năng tương thích tùy thuộc thế hệ sản phẩm. Thời lượng pin khác nhau tùy theo cách sử dụng và cấu hình. Truy cập apple.com/batteries để biết thêm thông tin."
+          ]
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Thương hiệu",
+          "value": "Apple"
+        },
+        {
+          "label": "Màn hình",
+          "value": "8.3”, IPS LCD, Liquid Retina"
+        },
+        {
+          "label": "Độ phân giải màn hình",
+          "value": "2266 x 1488 Pixels"
+        },
+        {
+          "label": "Kết nối bàn phím",
+          "value": "Bluetooth Keyboard"
+        },
+        {
+          "label": "Kết nối bút",
+          "value": "Apple Pencil 2"
+        },
+        {
+          "label": "Pin",
+          "value": "19.3 Wh"
+        },
+        {
+          "label": "Cổng sạc",
+          "value": "USB-C"
+        },
+        {
+          "label": "Bảo mật",
+          "value": "Touch ID"
+        },
+        {
+          "label": "Chip",
+          "value": "A15 Bionic"
+        },
+        {
+          "label": "Bộ nhớ",
+          "value": "64GB, 256GB"
+        },
+        {
+          "label": "Kết nối mạng",
+          "value": "1 Nano SIM hoặc 1 eSIM, hỗ trợ 4G, Wifi"
+        },
+        {
+          "label": "Camera sau",
+          "value": "12MP"
+        },
+        {
+          "label": "Camera trước",
+          "value": "12MP"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "iPad Pro M1 Wifi",
+      "price": [
+        "25.350.000đ",
+        "27.850.000đ",
+        "34.950.000đ",
+        "45.550.000đ",
+        "55.550.000đ"
+      ],
+      "imageBackground": "https://i.ibb.co/zSmDfYG/ipad-pro-m1.webp",
+      "color": [
+        "#b1b3b6",
+        "#e3e5e3"
+      ],
+      "imageProfile": [
+        "https://i.ibb.co/2NpLS7Q/ipad-pro-m1-grey-profile.jpg",
+        "https://i.ibb.co/hLBGMLk/ipad-pro-m1-silver-profile.jpg"
+      ],
+      "storage": [
+        "128GB",
+        "256GB",
+        "512GB",
+        "1TB",
+        "2TB"
+      ],
+      "services": [
+        "Hư gì đổi nấy 12 tháng",
+        "Bảo hành chính hãng 1 năm",
+        "Giao hàng nhanh toàn quốc",
+        "Gọi đặt mua 1900.6626 (7:30 - 22:00)"
+      ],
+      "description": [
+        {
+          "heading": "iPad Pro 12.9 inch (2021)",
+          "desc": [
+            "Chiếc iPad đỉnh cao với chip Apple M1 siêu mạnh, màn hình Liquid Retina XDR 12.9 inch sống động, kết nối không dây siêu nhanh. Thắt dây an toàn vào đi nào.",
+            "Chip Apple M1 nâng hiệu suất lên một đẳng cấp mới",
+            "Màn hình Liquid Retina XDR 12.9 inch lộng lẫy với ProMotion, True Tone và dải màu rộng P3",
+            "Hệ thống camera TrueDepth với camera trước Ultra Wide tích hợp tính năng Trung Tâm Sân Khấu",
+            "Camera Wide 12MP, camera Ultra Wide 10MP và LiDAR Scanner cho trải nghiệm thực tế ảo tăng cường sống động",
+            "Luôn kết nối với Wi-Fi 6 siêu nhanh và mạng LTE",
+            "Làm được nhiều việc hơn với thời lượng pin bền bỉ cả ngày",
+            "Cổng Thunderbolt cho kết nối nhanh với bộ nhớ ngoài, màn hình và dock",
+            "Xác thực bảo mật với Face ID",
+            "Bốn loa âm thanh và năm micro chuẩn studio",
+            "Hỗ trợ Apple Pencil (thế hệ thứ 2), Magic Keyboard và Smart Keyboard Folio ",
+            "iPadOS mạnh mẽ, trực quan và được thiết kế riêng cho iPad",
+            "Hơn 1 triệu ứng dụng trên App Store dành riêng cho iPad"
+          ]
+        },
+        {
+          "heading": "Bộ sản phẩm bao gồm",
+          "desc": "Máy tính bảng. Dây sạc. Củ sạc 18W. HDSD bảo hành điện tử 12 tháng"
+        },
+        {
+          "heading": "Các thông tin Apple đảm bảo ( Pháp lý )",
+          "desc": [
+            "Màn hình có các góc bo tròn. Khi tính theo hình chữ nhật, kích thước màn hình iPad Pro 12.9 inch là 12.9 inch theo đường chéo. Diện tích hiển thị thực tế nhỏ hơn. Cần có gói cước dữ liệu. Liên hệ với nhà mạng tại thị trường của bạn để biết thêm chi tiết. Tốc độ có thể thay đổi tùy địa điểm. Thời lượng pin khác nhau tùy theo cách sử dụng và cấu hình. Truy cập apple.com/batteries để biết thêm thông tin. Phụ kiện được bán riêng. Khả năng tương thích tùy thuộc thế hệ sản phẩm."
+          ]
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Thương hiệu",
+          "value": "Apple"
+        },
+        {
+          "label": "Màu sắc",
+          "value": "Silver, Space Grey"
+        },
+        {
+          "label": "Tương thích Apple Pencil",
+          "value": "Apple Pencil 2"
+        },
+        {
+          "label": "Màn hình",
+          "value": "Liquid Retina XDR, 12.9 inch mini-LED, cảm ứng đa điểm, công nghệ IPS, 2732 x 2048 pixels, Độ sáng tối đa 600 nit, Độ sáng toàn màn hình tối đa 1000 nit; Độ sáng tối đa, 1600 nit (HDR), Lớp phủ oleophobic chống bám vân tay, Lớp phủ chống chói, Công nghệ ProMotion, Chuẩn màu P3, TrueTone"
+        },
+        {
+          "label": "Kích thước",
+          "value": "Dài: 280.6 mm, Rộng: 214.9 mm, Dày: 6.4 mm"
+        },
+        {
+          "label": "Cảm biến",
+          "value": "Face ID, LiDAR, Con quay hồi chuyển, Gia tốc kế, Cảm biến ánh sáng xung quanh, Áp kế"
+        },
+        {
+          "label": "Kết nối bàn phím",
+          "value": "Magic Keyboard, Smart Folio Keyboard"
+        },
+        {
+          "label": "Pin và sạc",
+          "value": "Lướt web bằng Wi-Fi hoặc xem video lên đến 10 giờ, Lướt web bằng dữ liệu di động 9 giờ"
+        },
+        {
+          "label": "Bảo mật",
+          "value": "Face ID"
+        },
+        {
+          "label": "Audio",
+          "value": "4 loa"
+        },
+        {
+          "label": "Chip",
+          "value": "Apple M1, 8 nhân CPU, 8 nhân GPU, 8GB hoặc 16GB RAM"
+        },
+        {
+          "label": "Bộ nhớ",
+          "value": "Bản Wi-Fi: 128GB, 256GB, 512GB, 1TB, 2TB, Bản Wi-Fi + Di động: 128GB, 256GB, 512GB, 1TB, 2TB"
+        },
+        {
+          "label": "Kết nối mạng",
+          "value": "Wi-Fi 6, Bluetooth 5.0, 5G"
+        },
+        {
+          "label": "Camera",
+          "value": "Camera góc rộng 12 MP, Camera góc siêu rộng 10 MP, Rộng: khẩu độ ƒ / 1.8, Siêu rộng: khẩu độ ƒ / 2.4, Zoom xa quang học 2x, Zoom số 5x, True Tone flash, Smart HDR 3"
+        },
+        {
+          "label": "Quay video",
+          "value": "Quay video 4K tại 24 fps, 25 fps, 30 fps hoặc 60 fps, Quay video 1080p tại 25fps, 30fps hoặc 60 fps, Dải nhạy sáng mới rộng cho video lên đến 30FPS, Zoom xa quang học 2x, Zoom số 3x, Audio Zoom, Slo-mo video 1080p tại 120fps hoặc 240fps, Chống rung Time-lapse, Ghi âm Stereo"
+        },
+        {
+          "label": "Camera trước",
+          "value": "Camera góc siêu rộng TrueDepth, Chụp ảnh 12MP, Khẩu độ ƒ / 2.4, Zoom xa quang học 2x, Center Stage, Retina Flash, Smart HDR 3, Chụp chân dung tuỳ chỉnh xoá phông, 6 hiệu ứng ánh sáng chụp chân dung (Tự nhiên, Studio, Đường viền, Sân khấu, Sân khấu Mono, High Key Mono), Dải nhạy sáng mới rộng cho video lên đến 30FPS, Chố́ng rung video Cinematic, Quay video 1080p tại 25fps, 30fps hoặc 60 fps, Animoji và Memoji"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "iPad Pro M1 Wifi + 5G",
+      "price": [
+        "26.450.000đ",
+        "33.750.000đ",
+        "35.750.000đ",
+        "49.950.000đ",
+        "59.950.000đ"
+      ],
+      "imageBackground": "https://i.ibb.co/zSmDfYG/ipad-pro-m1.webp",
+      "color": [
+        "#b1b3b6",
+        "#e3e5e3"
+      ],
+      "imageProfile": [
+        "https://i.ibb.co/2NpLS7Q/ipad-pro-m1-grey-profile.jpg",
+        "https://i.ibb.co/hLBGMLk/ipad-pro-m1-silver-profile.jpg"
+      ],
+      "storage": [
+        "128GB",
+        "256GB",
+        "512GB",
+        "1TB",
+        "2TB"
+      ],
+      "services": [
+        "Hư gì đổi nấy 12 tháng",
+        "Bảo hành chính hãng 1 năm",
+        "Giao hàng nhanh toàn quốc",
+        "Gọi đặt mua 1900.6626 (7:30 - 22:00)"
+      ],
+      "description": [
+        {
+          "heading": "iPad Pro 12.9 inch (2021)",
+          "desc": [
+            "Chiếc iPad đỉnh cao với chip Apple M1 siêu mạnh, màn hình Liquid Retina XDR 12.9 inch sống động, kết nối không dây siêu nhanh. Thắt dây an toàn vào đi nào.",
+            "Chip Apple M1 nâng hiệu suất lên một đẳng cấp mới",
+            "Màn hình Liquid Retina XDR 12.9 inch lộng lẫy với ProMotion, True Tone và dải màu rộng P3",
+            "Hệ thống camera TrueDepth với camera trước Ultra Wide tích hợp tính năng Trung Tâm Sân Khấu",
+            "Camera Wide 12MP, camera Ultra Wide 10MP và LiDAR Scanner cho trải nghiệm thực tế ảo tăng cường sống động",
+            "Luôn kết nối với Wi-Fi 6 siêu nhanh và mạng LTE",
+            "Làm được nhiều việc hơn với thời lượng pin bền bỉ cả ngày",
+            "Cổng Thunderbolt cho kết nối nhanh với bộ nhớ ngoài, màn hình và dock",
+            "Xác thực bảo mật với Face ID",
+            "Bốn loa âm thanh và năm micro chuẩn studio",
+            "Hỗ trợ Apple Pencil (thế hệ thứ 2), Magic Keyboard và Smart Keyboard Folio ",
+            "iPadOS mạnh mẽ, trực quan và được thiết kế riêng cho iPad",
+            "Hơn 1 triệu ứng dụng trên App Store dành riêng cho iPad"
+          ]
+        },
+        {
+          "heading": "Bộ sản phẩm bao gồm",
+          "desc": "Máy tính bảng. Dây sạc. Củ sạc 18W. HDSD bảo hành điện tử 12 tháng"
+        },
+        {
+          "heading": "Các thông tin Apple đảm bảo ( Pháp lý )",
+          "desc": [
+            "Màn hình có các góc bo tròn. Khi tính theo hình chữ nhật, kích thước màn hình iPad Pro 12.9 inch là 12.9 inch theo đường chéo. Diện tích hiển thị thực tế nhỏ hơn. Cần có gói cước dữ liệu. Liên hệ với nhà mạng tại thị trường của bạn để biết thêm chi tiết. Tốc độ có thể thay đổi tùy địa điểm. Thời lượng pin khác nhau tùy theo cách sử dụng và cấu hình. Truy cập apple.com/batteries để biết thêm thông tin. Phụ kiện được bán riêng. Khả năng tương thích tùy thuộc thế hệ sản phẩm."
+          ]
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Thương hiệu",
+          "value": "Apple"
+        },
+        {
+          "label": "Màu sắc",
+          "value": "Silver, Space Grey"
+        },
+        {
+          "label": "Tương thích Apple Pencil",
+          "value": "Apple Pencil 2"
+        },
+        {
+          "label": "Màn hình",
+          "value": "Liquid Retina XDR, 12.9 inch mini-LED, cảm ứng đa điểm, công nghệ IPS, 2732 x 2048 pixels, Độ sáng tối đa 600 nit, Độ sáng toàn màn hình tối đa 1000 nit; Độ sáng tối đa, 1600 nit (HDR), Lớp phủ oleophobic chống bám vân tay, Lớp phủ chống chói, Công nghệ ProMotion, Chuẩn màu P3, TrueTone"
+        },
+        {
+          "label": "Kích thước",
+          "value": "Dài: 280.6 mm, Rộng: 214.9 mm, Dày: 6.4 mm"
+        },
+        {
+          "label": "Cảm biến",
+          "value": "Face ID, LiDAR, Con quay hồi chuyển, Gia tốc kế, Cảm biến ánh sáng xung quanh, Áp kế"
+        },
+        {
+          "label": "Kết nối bàn phím",
+          "value": "Magic Keyboard, Smart Folio Keyboard"
+        },
+        {
+          "label": "Pin và sạc",
+          "value": "Lướt web bằng Wi-Fi hoặc xem video lên đến 10 giờ, Lướt web bằng dữ liệu di động 9 giờ"
+        },
+        {
+          "label": "Bảo mật",
+          "value": "Face ID"
+        },
+        {
+          "label": "Audio",
+          "value": "4 loa"
+        },
+        {
+          "label": "Chip",
+          "value": "Apple M1, 8 nhân CPU, 8 nhân GPU, 8GB hoặc 16GB RAM"
+        },
+        {
+          "label": "Bộ nhớ",
+          "value": "Bản Wi-Fi: 128GB, 256GB, 512GB, 1TB, 2TB, Bản Wi-Fi + Di động: 128GB, 256GB, 512GB, 1TB, 2TB"
+        },
+        {
+          "label": "Kết nối mạng",
+          "value": "Wi-Fi 6, Bluetooth 5.0, 5G"
+        },
+        {
+          "label": "Camera",
+          "value": "Camera góc rộng 12 MP, Camera góc siêu rộng 10 MP, Rộng: khẩu độ ƒ / 1.8, Siêu rộng: khẩu độ ƒ / 2.4, Zoom xa quang học 2x, Zoom số 5x, True Tone flash, Smart HDR 3"
+        },
+        {
+          "label": "Quay video",
+          "value": "Quay video 4K tại 24 fps, 25 fps, 30 fps hoặc 60 fps, Quay video 1080p tại 25fps, 30fps hoặc 60 fps, Dải nhạy sáng mới rộng cho video lên đến 30FPS, Zoom xa quang học 2x, Zoom số 3x, Audio Zoom, Slo-mo video 1080p tại 120fps hoặc 240fps, Chống rung Time-lapse, Ghi âm Stereo"
+        },
+        {
+          "label": "Camera trước",
+          "value": "Camera góc siêu rộng TrueDepth, Chụp ảnh 12MP, Khẩu độ ƒ / 2.4, Zoom xa quang học 2x, Center Stage, Retina Flash, Smart HDR 3, Chụp chân dung tuỳ chỉnh xoá phông, 6 hiệu ứng ánh sáng chụp chân dung (Tự nhiên, Studio, Đường viền, Sân khấu, Sân khấu Mono, High Key Mono), Dải nhạy sáng mới rộng cho video lên đến 30FPS, Chố́ng rung video Cinematic, Quay video 1080p tại 25fps, 30fps hoặc 60 fps, Animoji và Memoji"
+        }
+      ]
+    }
+  ],
+
+
+  "backgroundipads": [
+    {
+      "id": 1,
+      "url": "https://i.ibb.co/R0522Gq/ipad1.jpg"
+    },
+    {
+      "id": 2,
+      "url": "https://i.ibb.co/TPSBcdK/ipad2.jpg"
+    },
+    {
+      "id": 3,
+      "url": "https://i.ibb.co/FgtQ3xc/ipad3.png"
+    }
+  ],
+
+
+
+
+  
+  "macs": [
+    {
+      "id": 1,
+      "name": "Macbook Pro M2 2022 (16GB RAM)",
+      "price": [
+        "43.290.000đ"
+      ],
+      "imageBackground": "https://i.ibb.co/Z2hSyKQ/macbookprom2.png",
+      "color": [
+        "#c0c0c0",
+        "#b1b3b6"
+      ],
+      "imageProfile": [
+        "https://i.ibb.co/K5mTtQp/mac-pro-m2-silver-profile.webp",
+        "https://i.ibb.co/Jtrs7Tq/mac-pro-m2-grey-profile.webp"
+      ],
+      "storage": [
+        "512GB"
+      ],
+      "services": [
+        "Hư gì đổi nấy 12 tháng",
+        "Bảo hành chính hãng 1 năm",
+        "Giao hàng nhanh toàn quốc",
+        "Gọi đặt mua 1900.6626 (7:30 - 22:00)"
+      ],
+      "description": [
+        {
+          "heading": "MacBook Pro M2 16GB 512GB – Pin “trâu”, Hiệu năng vượt trội hơn thế hệ cũ",
+          "desc": [
+            "Độ hot của MacBook Pro M2 16GB 512GB kể từ khi ra mắt tại sự kiện Apple WWDC 2022 vào 6/6 tới nay vẫn chưa hề giảm nhiệt. Chip M2 với hiệu năng mạnh mẽ, Pin “trâu” lên tới 20 giờ và bộ nhớ cực khủng chính là ưu điểm nổi bật nhất trên dòng MacBook mới. Cùng khám phá chi tiết chiếc MacBook Pro M2 2022 16GB/512GB ngay nhé!",
+            "Chip M2 nâng cấp hiệu năng cực khủng",
+            "RAM 16GB cùng SSD 512GB – Khởi động nhanh hơn, lưu trữ tốt hơn",
+            "Màn hình chất lượng cao, cho hình ảnh rực rỡ",
+            "Âm thanh sắc nét mang tới trải nghiệm tuyệt vời",
+            "Thiết kế tiện lợi, thời thượng",
+            "Đa dạng các cổng kết nối",
+            "Bảo mật tốt hơn với Apple silicon và MacOS",
+            "Pin “trâu” lên tới 20 tiếng"
+          ]
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Thương hiệu",
+          "value": "Apple"
+        },
+        {
+          "label": "Chọn Dung lượng",
+          "value": "512GB"
+        },
+        {
+          "label": "Bộ xử lý",
+          "value": [
+            "Công nghệ CPU: Apple M2",
+            "Số nhân: 8",
+            "Tốc độ CPU: 100GB/s memory bandwidth"
+          ]
+        },
+        {
+          "label": "Bộ nhớ RAM, Ổ cứng",
+          "value": [
+            "RAM: 8GB, 16 GB",
+            "Ổ cứng: SSD"
+          ]
+        },
+        {
+          "label": "Màn hình",
+          "value": [
+            "Màn hình: 13.3 inch",
+            "Độ phân giải: Retina (2560 x 1600)",
+            "Tần số quét: Hãng không công bố",
+            "Công nghệ màn hình",
+            "500 nits brightness",
+            "Retina",
+            "True Tone Technology",
+            "Tấm nền IPS",
+            "Wide color (P3)"
+          ]
+        },
+        {
+          "label": "Đồ họa và Âm thanh",
+          "value": [
+            "Card màn hình: Card tích hợp – 10 nhân GPU",
+            "Công nghệ âm thanh:",
+            "– 3 microphones",
+            "– Dolby Atmos Loa kép (2 kênh)",
+            "– Wide stereo sound"
+          ]
+        },
+        {
+          "label": "Cổng kết nối & tính năng mở rộng",
+          "value": [
+            "Cổng giao tiếp: 2 x Thunderbolt 3, Jack tai nghe 3.5 mm",
+            "Kết nối không dây: Bluetooth 5.0 , Wi-Fi 6 (802.11ax)",
+            "Webcam: 720p FaceTime Camera",
+            "Tính năng khác: Bảo mật vân tay",
+            "Đèn bàn phím: Có"
+          ]
+        },
+        {
+          "label": "Kích thước & trọng lượng",
+          "value": [
+            "Kích thước, trọng lượng:",
+            "Dài 304.1 mm – Rộng 212.4 mm – Dày 15.6 mm – Nặng 1.4 kg",
+            "Chất liệu:",
+            "Vỏ kim loại"
+          ]
+        },
+        {
+          "label": "Thông tin khác",
+          "value": [
+            "Thông tin Pin: Khoảng 10 tiếng",
+            "Hệ điều hành: Mac OS",
+            "Thời điểm ra mắt: 6/2022"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "MacBook Pro 14 M1 Pro (16-Core/16GB/1TB)",
+      "price": [
+        "55.950.000đ"
+      ],
+      "imageBackground": "https://i.ibb.co/mqRQVFY/macbookpro14silver.png",
+      "color": [
+        "#b1b3b6",
+        "#e3e5e3"
+      ],
+      "imageProfile": [
+        "https://i.ibb.co/m045SVr/Mac-Book-Pro-14-in-Space-Gray-profile.webp",
+        "https://i.ibb.co/T2qQY5Y/Mac-Book-Pro-14-in-Silver-profile.jpg"
+      ],
+      "storage": [
+        "1TB"
+      ],
+      "services": [
+        "Hư gì đổi nấy 12 tháng",
+        "Bảo hành chính hãng 1 năm",
+        "Giao hàng nhanh toàn quốc",
+        "Gọi đặt mua 1900.6626 (7:30 - 22:00)"
+      ],
+      "description": [
+        {
+          "heading": "MacBook Pro (14 inch)",
+          "desc": [
+            "mới mang đến hiệu năng cao ấn tượng cho người dùng pro. Lựa chọn M1 Pro mạnh mẽ hay M1 Max còn mạnh hơn thế để tăng tốc xử lý các luồng công việc đẳng cấp pro cùng thời lượng pin đáng kinh ngạc. Với màn hình Liquid Retina XDR 14 inch sống động và nhiều cổng kết nối chuyên nghiệp, bạn có thể làm được nhiều việc hơn bao giờ hết với MacBook Pro.",
+            "Chip M1 Max hoặc M1 Pro do Apple thiết kế tạo ra một cú nhảy vọt về hiệu năng máy học, CPU và GPU",
+            "CPU lên đến 10 lõi cho hiệu năng nhanh hơn đến 3.7x, xử lý các luồng công việc chuyên nghiệp nhanh hơn bao giờ hết",
+            "GPU lên đến 32 lõi với tốc độ xử lý đồ họa nhanh hơn đến 13x cho các ứng dụng và game có đồ họa khủng",
+            "Neural Engine 16 lõi cho hiệu năng máy học nhanh hơn đến 11x",
+            "Thời lượng pin lâu hơn, lên đến 17 giờ",
+            "Bộ nhớ thống nhất lên đến 64GB giúp bạn làm việc gì cũng nhanh chóng và trôi chảy",
+            "Ổ lưu trữ SSD siêu nhanh lên đến 8TB giúp mở các ứng dụng và tập tin chỉ trong tích tắc",
+            "Màn hình Liquid Retina XDR 14 inch sắc nét với Extreme Dynamic Range và tỷ lệ tương phản cực cao",
+            "Camera FaceTime HD 1080p với bộ xử lý tín hiệu hình ảnh tiên tiến cho các cuộc gọi video sắc nét hơn",
+            "Hệ thống âm thanh 6 loa với loa trầm khử lực",
+            "Ba micro phối hợp chuẩn studio thu giọng nói của bạn rõ hơn",
+            "Ba cổng Thunderbolt 4, cổng HDMI, khe thẻ nhớ SDXC, jack cắm tai nghe, cổng MagSafe 3",
+            "Wi-Fi 6 thế hệ mới giúp kết nối nhanh hơn",
+            "Bàn phím Magic Keyboard có đèn nền và Touch ID giúp mở khóa và thanh toán an toàn hơn",
+            "macOS Monterey cho phép bạn kết nối, chia sẻ và sáng tạo hơn bao giờ hết, với các bản cập nhật FaceTime mới đầy thú vị và Safari đã được thiết kế lại",
+            "Hiện có màu xám bạc và bạc"
+          ]
+        },
+        {
+          "heading": "Các thông tin Apple đảm bảo ( Pháp lý )",
+          "desc": [
+            "Hiện có sẵn các lựa chọn để nâng cấp.",
+            "Thời lượng pin khác nhau tùy theo cách sử dụng và cấu hình. Truy cập apple.com/batteries để biết thêm thông tin. Màn hình của MacBook Pro 14 inch có các góc trên được bo tròn. Khi tính theo hình chữ nhật chuẩn, kích thước màn hình theo đường chéo là 14.2 inch (diện tích hiển thị thực tế nhỏ hơn).So với thế hệ trước."
+          ]
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Thương hiệu",
+          "value": "Apple"
+        },
+        {
+          "label": "GPU",
+          "value": "14-core, 16-core, 24-core, 32-core"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "MacBook Air M1 2020 8GB",
+      "price": [],
+      "imageBackground": "https://i.ibb.co/tzNm2jB/macbookairm1.png",
+      "color": [],
+      "imageProfile": [],
+      "storage": [
+        "64GB",
+        "256GB"
+      ],
+      "services": [
+        "Hư gì đổi nấy 12 tháng",
+        "Bảo hành chính hãng 1 năm",
+        "Giao hàng nhanh toàn quốc",
+        "Gọi đặt mua 1900.6626 (7:30 - 22:00)"
+      ],
+      "description": [
+        {
+          "heading": "",
+          "desc": []
+        },
+        {
+          "heading": "Các thông tin Apple đảm bảo ( Pháp lý )",
+          "desc": []
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Thương hiệu",
+          "value": "Apple"
+        },
         {
           "label": "",
           "value": ""
@@ -927,54 +1798,42 @@
       ]
     },
     {
-      "id": 2,
-      "name": "iPad Air 5",
-      "image": "https://i.ibb.co/R4VtxQr/ipadair5.webp",
-      "price": "15.190.000đ"
-    },
-    {
-      "id": 3,
-      "name": "iPad gen 9 10.2 inch Wi-Fi 64GB",
-      "image": "https://i.ibb.co/Q9ffSCF/ipadgen9.webp",
-      "price": "8.390.000đ"
-    },
-    {
-      "id": 4,
-      "name": "iPad mini 6 (2021)",
-      "image": "https://i.ibb.co/b1kQL73/ipadmini6.webp",
-      "price": "12.990.000đ"
-    },
-    {
-      "id": 5,
-      "name": "iPad Air 4 10.9 inch Wi-Fi 256GB",
-      "image": "https://i.ibb.co/kMdF09v/ipadair4.webp",
-      "price": "16.690.000đ"
-    }
-  ],
-  "macs": [
-    {
-      "id": 1,
-      "name": "Macbook Pro M2 2022 (16GB RAM)",
-      "image": "https://i.ibb.co/Z2hSyKQ/macbookprom2.png",
-      "price": "37.990.000đ"
-    },
-    {
-      "id": 2,
-      "name": "MacBook Pro 14 M1 Pro (16-Core/16GB/1TB)",
-      "image": "https://i.ibb.co/mqRQVFY/macbookpro14silver.png",
-      "price": "57.990.000đ"
-    },
-    {
-      "id": 3,
-      "name": "MacBook Air M1 2020",
-      "image": "https://i.ibb.co/tzNm2jB/macbookairm1.png",
-      "price": "21.990.000đ"
-    },
-    {
       "id": 4,
       "name": "MacBook Pro M1 2020",
-      "image": "https://i.ibb.co/0DYgPHh/macbookprom1.png",
-      "price": "28.990.000đ"
+      "price": [],
+      "imageBackground": "https://i.ibb.co/0DYgPHh/macbookprom1.png",
+      "color": [],
+      "imageProfile": [],
+      "storage": [
+        "64GB",
+        "256GB"
+      ],
+      "services": [
+        "Hư gì đổi nấy 12 tháng",
+        "Bảo hành chính hãng 1 năm",
+        "Giao hàng nhanh toàn quốc",
+        "Gọi đặt mua 1900.6626 (7:30 - 22:00)"
+      ],
+      "description": [
+        {
+          "heading": "",
+          "desc": []
+        },
+        {
+          "heading": "Các thông tin Apple đảm bảo ( Pháp lý )",
+          "desc": []
+        }
+      ],
+      "specifications": [
+        {
+          "label": "Thương hiệu",
+          "value": "Apple"
+        },
+        {
+          "label": "",
+          "value": ""
+        }
+      ]
     }
   ]
 }
