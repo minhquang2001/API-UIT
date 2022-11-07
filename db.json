@@ -1,9 +1,7 @@
 {
   "iphones": [
-    "heading",
     {
       "id": 1,
-      "heading": "iPhone",
       "name": "iPhone 13 Pro Max",
       "price": [
         "26.990.000đ",
@@ -215,7 +213,6 @@
     }
   ],
   "macs": [
-    "Mac",
     {
       "id": 1,
       "heading": "iPhone",
