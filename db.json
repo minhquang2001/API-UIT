@@ -1,4 +1,90 @@
 {
+  "iphone": [
+    {
+      "id": 1,
+      "name": "iphone11",
+      "price": "9.000.000",
+      "image": "https://i.ibb.co/9qFqM5g/iphone13promax-green-profile.png",
+      "description": "",
+      "specific": "",
+      "product_details": [
+        {
+          "id": 1,
+          "name": "iphone11-256",
+          "price": "10.000.000",
+          "image": "https://i.ibb.co/9qFqM5g/iphone13promax-green-profile.png",
+          "description": "",
+          "options": [
+            {
+              "name": "ram",
+              "unit": "GB",
+              "value": "8"
+            },
+            {
+              "name": "color",
+              "unit": "",
+              "value": "green"
+            },
+            {
+              "name": "storage",
+              "unit": "GB",
+              "value": "256"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "iphone11-512",
+          "price": "12.000.000",
+          "image": "https://i.ibb.co/9VGBNV6/iphone-13-pro-gold-profile.png",
+          "description": "",
+          "options": [
+            {
+              "name": "ram",
+              "unit": "GB",
+              "value": "16"
+            },
+            {
+              "name": "color",
+              "unit": "",
+              "value": "gold"
+            },
+            {
+              "name": "storage",
+              "unit": "GB",
+              "value": "512"
+            }
+          ]
+        }
+      ],
+      "option": [
+        {
+          "key": "color",
+          "value": [
+            "red",
+            "green"
+          ],
+          "unit": ""
+        },
+        {
+          "key": "ram",
+          "value": [
+            "8",
+            "16"
+          ],
+          "unit": "GB"
+        },
+        {
+          "key": "ram",
+          "value": [
+            "256",
+            "512"
+          ],
+          "unit": "GB"
+        }
+      ]
+    }
+  ],
   "iphones": [
     {
       "id": 1,
