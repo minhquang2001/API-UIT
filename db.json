@@ -51,16 +51,16 @@
         {
           "key": "ram",
           "value": [
-            "8",
-            "16"
+            "8GB",
+            "16GB"
           ],
           "unit": "GB"
         },
         {
           "key": "storage",
           "value": [
-            "256",
-            "512"
+            "256GB",
+            "512GB"
           ],
           "unit": "GB"
         }
