@@ -9,18 +9,14 @@
       "product_details": [
         {
           "id": 1,
-          "image": "https://i.ibb.co/9qFqM5g/iphone13promax-green-profile.png",
           "price": "10.000.000",
           "ram": "8GB",
-          "color": "green",
           "storage": "256GB"
         },
         {
           "id": 2,
           "price": "12.000.000",
-          "image": "https://i.ibb.co/9VGBNV6/iphone-13-pro-gold-profile.png",
           "ram": "8GB",
-          "color": "green",
           "storage": "256GB"
         }
       ],
