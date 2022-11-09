@@ -22,6 +22,22 @@
           "ram": "8GB",
           "color": "red",
           "storage": "256GB"
+        },
+        {
+          "id": 3,
+          "price": "14.000.000",
+          "image": "https://i.ibb.co/9VGBNV6/iphone-13-pro-gold-profile.png",
+          "ram": "16GB",
+          "color": "red",
+          "storage": "256GB"
+        },
+        {
+          "id": 4,
+          "price": "15.000.000",
+          "image": "https://i.ibb.co/9qFqM5g/iphone13promax-green-profile.png",
+          "ram": "16GB",
+          "color": "green",
+          "storage": "256GB"
         }
       ],
       "option": [
