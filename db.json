@@ -109,14 +109,14 @@
     {
       "id": 2,
       "name": "iPhone 13 Pro Max",
-      "image": "https://i.ibb.co/9qFqM5g/iphone13promax-green-profile.png",
+      "image": "https://i.ibb.co/9qFqM5g/iphone-13-pro-green-profile.png",
       "default_pro": 1,
       "description": "",
       "product_details": [
         {
           "id": 1,
           "name": "iPhone 13 Pro Max 256GB",
-          "image": "https://i.ibb.co/9qFqM5g/iphone13promax-green-profile.png",
+          "image": "https://i.ibb.co/9qFqM5g/iphone-13-pro-green-profile.png",
           "price": "30.000.000",
           "color": "green",
           "storage": "256GB"
@@ -141,7 +141,7 @@
           "id": 4,
           "name": "iPhone 13 Pro Max 128GB",
           "price": "27.000.000",
-          "image": "https://i.ibb.co/9qFqM5g/iphone13promax-green-profile.png",
+          "image": "https://i.ibb.co/9qFqM5g/iphone-13-pro-green-profile.png",
           "color": "green",
           "storage": "128GB"
         },
@@ -157,7 +157,7 @@
           "id": 6,
           "name": "iPhone 13 Pro Max 512GB",
           "price": "34.500.000",
-          "image": "https://i.ibb.co/9qFqM5g/iphone13promax-green-profile.png",
+          "image": "https://i.ibb.co/9qFqM5g/iphone-13-pro-green-profile.png",
           "color": "green",
           "storage": "512GB"
         }
