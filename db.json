@@ -1044,6 +1044,16 @@
       "url": "https://i.ibb.co/5nT9jsc/iphone2.jpg"
     }
   ],
+  "backgroundmbiphones": [
+    {
+      "id": 1,
+      "url": "https://i.ibb.co/Kj1VCNX/banner-MB-iphone1.jpg"
+    },
+    {
+      "id": 2,
+      "url": "https://i.ibb.co/Bn4vbbZ/banner-MB-iphone2.jpg"
+    }
+  ],
   "ipads": [
     {
       "id": 1,
@@ -1730,7 +1740,7 @@
   "backgroundipads": [
     {
       "id": 1,
-      "url": "https://i.ibb.co/R0522Gq/ipad1.jpg"
+      "url": "https://i.ibb.co/x2gnmpg/ipad4.png"
     },
     {
       "id": 2,
@@ -1739,6 +1749,16 @@
     {
       "id": 3,
       "url": "https://i.ibb.co/FgtQ3xc/ipad3.png"
+    }
+  ],
+  "backgroundmbipads": [
+    {
+      "id": 1,
+      "url": "https://i.ibb.co/FhWX9Jf/banner-MB-ipad1.png"
+    },
+    {
+      "id": 2,
+      "url": "https://i.ibb.co/fQZZM4M/banner-MB-ipad2.png"
     }
   ],
   "macs": [
@@ -2014,6 +2034,40 @@
     {
       "id": 2,
       "url": "https://i.ibb.co/dKRp4yy/mac2.png"
+    },
+    {
+      "id": 3,
+      "url": "https://i.ibb.co/MMfD9wQ/mac3.png"
+    }
+  ],
+  "backgroundmbmacs": [
+    {
+      "id": 1,
+      "url": "https://i.ibb.co/KwsXHDS/banner-MB-mac1.jpg"
+    },
+    {
+      "id": 2,
+      "url": "https://i.ibb.co/qM90nF4/banner-MB-mac2.png"
+    }
+  ],
+  "backgroundsounds": [
+    {
+      "id": 1,
+      "url": "https://i.ibb.co/J26J0m9/sound1.jpg"
+    },
+    {
+      "id": 2,
+      "url": "https://i.ibb.co/4pYr39y/sound2.jpg"
+    }
+  ],
+  "backgroundmbsounds": [
+    {
+      "id": 1,
+      "url": "https://i.ibb.co/2cxv2zh/banner-MB-sound1.jpg"
+    },
+    {
+      "id": 2,
+      "url": "https://i.ibb.co/1J75QpL/banner-MB-sound2.jpg"
     }
   ]
 }
