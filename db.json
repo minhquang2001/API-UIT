@@ -4,7 +4,6 @@
       "id": 1,
       "name": "MacBook Air M1 2020",
       "image": "https://i.ibb.co/tzNm2jB/macbookairm1.png",
-      "default_pro": 1,
       "description": "",
       "product_details": [
         {
@@ -80,7 +79,7 @@
           "storage": "256GB"
         }
       ],
-      "option": [
+      "options": [
         {
           "key": "color",
           "value": [
@@ -110,7 +109,6 @@
       "id": 2,
       "name": "iPhone 13 Pro Max",
       "image": "https://i.ibb.co/9qFqM5g/iphone-13-pro-green-profile.png",
-      "default_pro": 1,
       "description": "",
       "product_details": [
         {
@@ -162,7 +160,7 @@
           "storage": "512GB"
         }
       ],
-      "option": [
+      "options": [
         {
           "key": "color",
           "value": [
